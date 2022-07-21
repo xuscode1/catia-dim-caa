@@ -1,0 +1,16 @@
+Title = "[~CATDRWExportDlg,Title~ Expørt Dråwîngs]";
+Frame1.Title = "[~CATDRWExportDlg,Frame1.Title~ Sétüp]";
+Frame2.CheckButton2.Title = "[~CATDRWExportDlg,Frame2.CheckButton2.Title~ CAD]";
+Frame1.Label6.Title = "[~CATDRWExportDlg,Frame1.Label6.Title~~~~                                                                                ]";
+Frame1.Label5.Title = "[~CATDRWExportDlg,Frame1.Label5.Title~~~~                                                                                ]";
+Frame1.Label2.Title = "[~CATDRWExportDlg,Frame1.Label2.Title~ Expørt Påth :]";
+Frame1.Label3.Title = "[~CATDRWExportDlg,Frame1.Label3.Title~ All Dråwîng :]";
+Frame1.Label1.Title = "[~CATDRWExportDlg,Frame1.Label1.Title~ Prødüct :]";
+Frame1.PushButton1.Title = "[~CATDRWExportDlg,Frame1.PushButton1.Title~ Brøwsé...]";
+Frame2.CheckButton1.Title = "[~CATDRWExportDlg,Frame2.CheckButton1.Title~ PDF]";
+Frame2.PushButton2.Title = "[~CATDRWExportDlg,Frame2.PushButton2.Title~ Délete]";
+Frame1.PushButton2.Title.Backup = "[~CATDRWExportDlg,.PushButton2.Title.Backup~ Délete]";
+Frame2.Title = "[~CATDRWExportDlg,Frame2.Title~ Dåta]";
+Frame2.Label4.Title = "[~CATDRWExportDlg,Frame2.Label4.Title~~~~                                                                                ]";
+Frame2.Label3.Title = "[~CATDRWExportDlg,Frame2.Label3.Title~ All Dråwîng :]";
+Frame1.PushButton2.Title = "[~CATDRWExportDlg,Frame1.PushButton2.Title~ Délete]";

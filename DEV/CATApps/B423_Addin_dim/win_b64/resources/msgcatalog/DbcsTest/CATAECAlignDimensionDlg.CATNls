@@ -1,0 +1,9 @@
+Title = "[十CATAECAlignDimensionDlg,Title十一構ソチ－CATAECAlignDimensionDlg]";
+Frame1.Title = "[十CATAECAlignDimensionDlg,Frame1.Title十一構ソチ－Setup]";
+Frame1.Label6.Title = "[十CATAECAlignDimensionDlg,Frame1.Label6.Title十一構ソチ－EXT_X : ]";
+Frame1.Label7.Title = "[十CATAECAlignDimensionDlg,Frame1.Label7.Title十一構ソチ－EXT_V_2 : ]";
+Frame1.Label4.Title = "[十CATAECAlignDimensionDlg,Frame1.Label4.Title十一構ソチ－EXT_H : ]";
+Frame1.Label5.Title = "[十CATAECAlignDimensionDlg,Frame1.Label5.Title十一構ソチ－EXT_V_1 : ]";
+Frame1.Label2.Title = "[十CATAECAlignDimensionDlg,Frame1.Label2.Title十一構ソチ－Point2 : ]";
+Frame1.Label3.Title = "[十CATAECAlignDimensionDlg,Frame1.Label3.Title十一構ソチ－Plane : ]";
+Frame1.Label1.Title = "[十CATAECAlignDimensionDlg,Frame1.Label1.Title十一構ソチ－Point1 : ]";

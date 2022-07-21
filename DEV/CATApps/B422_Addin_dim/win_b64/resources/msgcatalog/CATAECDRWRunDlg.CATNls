@@ -1,0 +1,18 @@
+Title = "Smart Drawing";
+Frame2.Title = "Frame2";
+Frame2.CheckButton2.Title = "2D Component";
+Frame2.Label1.Title = " Drawing ID : ";
+Frame2.Label2.Title = " Drawing Version : ";
+Frame2.CheckButton3.Title = "text";
+Frame2.Label4.Title = " Annotation 2D : ";
+Frame2.Label5.Title = " Annotation Text : ";
+Frame2.PushButton1.Title = "PushButton1";
+Frame1.Title = "Frame1";
+Frame1.Label3.Title = " Annotation Mode : ";
+Frame1.CheckButton1.Title = "Generate all dimension";
+
+NoSelect.Title = "Error";
+NoSelect.Text = "No Selection,Please select a drawing template.";
+//Catalog
+OpenError.Title = "Error";
+OpenError.Text = "open failed";

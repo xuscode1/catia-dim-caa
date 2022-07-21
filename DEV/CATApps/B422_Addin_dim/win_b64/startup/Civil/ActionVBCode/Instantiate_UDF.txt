@@ -1,0 +1,35 @@
+Dim IFact As InstanceFactory
+CurrentPart = ContainingPart(CurrentSet)
+ActiveSelection = CurrentSet
+
+Dim loopNum
+For loopNum = 1 To CurrentSet.HybridShapes.Count
+
+            IFact = CurrentPart.GetCustomerFactory("InstanceFactory")
+            Call IFact.BeginInstanceFactory("UDF", "prd-","A")
+
+            IFact.BeginInstantiate()
+            IFact.PutInputData("PT", CurrentSet.HybridShapes.Item(loopNum))
+            IFact.Instantiate()
+            Call IFact.EndInstantiate()
+            Call IFact.EndInstanceFactory()
+            CurrentPart.Update()
+        Next
+
+End Sub
+
+ Function ContainingPart(ByVal CatObject)
+        Dim found As Boolean
+        Dim Current
+        Set Current = CatObject
+        found = False
+        Do While found = False
+            Set Current = Current.Parent
+            If TypeName(Current) = "Part" Then
+                found = True
+            End If
+        Loop
+        Set ContainingPart = Current
+    End Function
+
+

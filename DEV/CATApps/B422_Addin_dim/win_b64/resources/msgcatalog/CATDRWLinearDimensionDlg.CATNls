@@ -1,0 +1,11 @@
+<meta charset="UTF-8"/>
+Title = "Instantiate 2D Component";
+Frame1.Title = "setup";
+Frame1.SelAxis.Title = "UDF Sets :";
+Frame1.PushButton1.Title = "PushButton1";
+Frame1.Label1.Title = "Drawing ：";
+Frame1.Label2.Title = "Distance From Max Y :";
+Frame1.2DCom.Title = "2D Component Name: ";
+Frame2.Title = "Frame2";
+Frame2.Label3.Title = "Label3";
+Frame1.Label4.Title = "Point Name:";

@@ -1,0 +1,49 @@
+!----------------------------------------------------------
+!   DASSAULT SYSTEMES  -  V5 ENVIRONMENT FILE
+!----------------------------------------------------------
+! MODE : User
+! TYPE : CATIA_P3
+! TMSTMP : 1639064531
+! ARGS : -icon no -menu no -desktop no -cs CATIA_P3 -a user 
+!----------------------------------------------------------
+
+CATInstallPath=%CODE_4%\win_b64;%CODE_3%\win_b64;%CODE_2%\win_b64;%CODE_1%\win_b64;CODE_0\win_b64
+CATDLLPath=%CODE_4%\win_b64\code\bin;%CODE_3%\win_b64\code\bin;%CODE_2%\win_b64\code\bin;%CODE_1%\win_b64\code\bin;CODE_0\win_b64\code\bin
+CATICPath=%CODE_4%\win_b64\code\productIC;%CODE_3%\win_b64\code\productIC;%CODE_2%\win_b64\code\productIC;%CODE_1%\win_b64\code\productIC;CODE_0\win_b64\code\productIC
+CATCommandPath=%CODE_4%\win_b64\code\command;%CODE_3%\win_b64\code\command;%CODE_2%\win_b64\code\command;%CODE_1%\win_b64\code\command;CODE_0\win_b64\code\command
+CATDictionaryPath=%CODE_4%\win_b64\code\dictionary;%CODE_3%\win_b64\code\dictionary;%CODE_2%\win_b64\code\dictionary;%CODE_1%\win_b64\code\dictionary;CODE_0\win_b64\code\dictionary
+CATDocView=%CODE_4%\win_b64\doc;%CODE_3%\win_b64\doc;%CODE_2%\win_b64\doc;%CODE_1%\win_b64\doc;CODE_0\win_b64\doc
+CATReffilesPath=%CODE_4%\win_b64\reffiles;%CODE_3%\win_b64\reffiles;%CODE_2%\win_b64\reffiles;%CODE_1%\win_b64\reffiles;CODE_0\win_b64\reffiles
+CATFontPath=%CODE_4%\win_b64\resources\fonts;%CODE_3%\win_b64\resources\fonts;%CODE_2%\win_b64\resources\fonts;%CODE_1%\win_b64\resources\fonts;CODE_0\win_b64\resources\fonts
+CATGalaxyPath=%CODE_4%\win_b64\resources\galaxy;%CODE_3%\win_b64\resources\galaxy;%CODE_2%\win_b64\resources\galaxy;%CODE_1%\win_b64\resources\galaxy;CODE_0\win_b64\resources\galaxy
+CATGraphicPath=%CODE_4%\win_b64\resources\graphic;%CODE_4%\win_b64\resources\graphic\icons;%CODE_4%\win_b64\resources\graphic\figures;%CODE_4%\win_b64\resources\graphic\splashscreens;%CODE_4%\win_b64\resources\graphic\symbols;%CODE_4%\win_b64\resources\graphic\textures;%CODE_3%\win_b64\resources\graphic;%CODE_3%\win_b64\resources\graphic\icons;%CODE_3%\win_b64\resources\graphic\figures;%CODE_3%\win_b64\resources\graphic\splashscreens;%CODE_3%\win_b64\resources\graphic\symbols;%CODE_3%\win_b64\resources\graphic\textures;%CODE_2%\win_b64\resources\graphic;%CODE_2%\win_b64\resources\graphic\icons;%CODE_2%\win_b64\resources\graphic\figures;%CODE_2%\win_b64\resources\graphic\splashscreens;%CODE_2%\win_b64\resources\graphic\symbols;%CODE_2%\win_b64\resources\graphic\textures;%CODE_1%\win_b64\resources\graphic;%CODE_1%\win_b64\resources\graphic\icons;%CODE_1%\win_b64\resources\graphic\figures;%CODE_1%\win_b64\resources\graphic\splashscreens;%CODE_1%\win_b64\resources\graphic\symbols;%CODE_1%\win_b64\resources\graphic\textures;CODE_0\win_b64\resources\graphic;CODE_0\win_b64\resources\graphic\icons;CODE_0\win_b64\resources\graphic\figures;CODE_0\win_b64\resources\graphic\splashscreens;CODE_0\win_b64\resources\graphic\symbols;CODE_0\win_b64\resources\graphic\textures
+CATMsgCatalogPath=%CODE_4%\win_b64\resources\msgcatalog;%CODE_3%\win_b64\resources\msgcatalog;%CODE_2%\win_b64\resources\msgcatalog;%CODE_1%\win_b64\resources\msgcatalog;CODE_0\win_b64\resources\msgcatalog
+CATFeatureCatalogPath=%CODE_4%\win_b64\resources\featurecatalog;%CODE_3%\win_b64\resources\featurecatalog;%CODE_2%\win_b64\resources\featurecatalog;%CODE_1%\win_b64\resources\featurecatalog;CODE_0\win_b64\resources\featurecatalog
+CATDefaultCollectionStandard=%CODE_4%\win_b64\resources\standard;%CODE_3%\win_b64\resources\standard;%CODE_2%\win_b64\resources\standard;%CODE_1%\win_b64\resources\standard;CODE_0\win_b64\resources\standard
+CATKnowledgePath=%CODE_4%\win_b64\resources\knowledge;%CODE_3%\win_b64\resources\knowledge;%CODE_2%\win_b64\resources\knowledge;%CODE_1%\win_b64\resources\knowledge;CODE_0\win_b64\resources\knowledge
+CATStartupPath=%CODE_4%\win_b64\startup;%CODE_3%\win_b64\startup;%CODE_2%\win_b64\startup;%CODE_1%\win_b64\startup;CODE_0\win_b64\startup
+CATW3ResourcesPath=%CODE_4%\win_b64\docs;%CODE_3%\win_b64\docs;%CODE_2%\win_b64\docs;%CODE_1%\win_b64\docs;CODE_0\win_b64\docs
+CATReconcilePath=
+CATReferenceSettingPath=
+CATUserSettingPath=CSIDL_APPDATA\DassaultSystemes\CATSettings
+CATCollectionStandard=
+CATTemp=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATTemp
+CATMetasearchPath=DSKEY_TMPDIR
+CATW3PublishPath=DSKEY_TMPDIR
+CATSharedWorkbookPath=DSKEY_TMPDIR
+CATErrorLog=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATTemp\error.log
+CATReport=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATReport
+CATDisciplinePath=
+USER_HOME=CSIDL_PERSONAL
+JAVA_HOME=%JAVA_HOME%
+CLASSPATH_JDBC=
+CLASSPATH=%CLASSPATH_JDBC%;%CLASSPATH%
+PATH=%CODE_4%\win_b64\code\bin;%CODE_4%\win_b64\code\command;%CODE_3%\win_b64\code\bin;%CODE_3%\win_b64\code\command;%CODE_2%\win_b64\code\bin;%CODE_2%\win_b64\code\command;%CODE_1%\win_b64\code\bin;%CODE_1%\win_b64\code\command;CODE_0\win_b64\code\bin;CODE_0\win_b64\code\command;%JAVA_HOME%\bin;%PATH%
+
+GSD_TOOLSOPTION_AUTOEXPANDATOPEN=1
+CAT_DRW_CAA_SECTIONVIEWCREATION=1
+GTCMultiSelectUserMode=FALSE
+GTCIfcAdvancedExportOptions=FALSE
+BreakRunAtEveryPart=1
+CATNoStartDocument=1
+UDF_ALLOW_KNOWLEDGE_PATTERN=1

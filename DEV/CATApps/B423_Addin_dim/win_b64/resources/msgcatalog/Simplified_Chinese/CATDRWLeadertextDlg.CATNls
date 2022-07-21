@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+Title = "引线文字";
+Frame1.Title = "Setup";
+Frame1.Label1.Title = "点:";
+Frame1.Label2.Title = "文字:";

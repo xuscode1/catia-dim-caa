@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding = 'UTF-8'?>
+
+<!-- 
+	const Title   
+	cosnt INPUT Name and Order 
+	const INPUTS Number 
+	Modify PartName and Revision and PWName
+	
+	输入是安装顺序给的  如 TOP_BEAM_PANEL_LEFT ： 点  点  线  线  线
+	该程序所对应的模板只能修改 PartName,Revision,PWName  
+	
+	1、获取所有XML信息存入vector<CATListOfCATUnicodeString>	_VecXMLDataList;，
+		并验证模板是否存在，将模板对象保存
+	2、获取选中产品节点的参考，并在选中的模板节点中 循环 获取到参数以及对应的output  即四根边线
+	3、每次循环创建一个Part,并创建对应的几何图形集
+	4、在对应的几何图形集中创建输入条件
+	5、计算数据 StartCalculation();
+	6、开始实例化  
+	InstanceTemplate(CATListOfDouble iParmValueList,CATUnicodeString isUDFName,int idType,
+		CATIMmiMechanicalFeature_var ispiPart,CATLISTV(CATBaseUnknown_var) ispInputListV);
+		
+		param1 : CATListOfDouble iParmValueList  用于修改模板参数，如宽度  长度
+		param2 : 实例化后显示的名称
+		param3 : 该模板是 CreatLPanel \ CreatMPanel \ CreatRPanel1 \ CreatSteelBeam  1\2\3\4
+		param4 : 所在的part对象
+		param5 ：输入条件，四个或五个，根据param3变化
+		
+	*由于所有的输入是由代码创建 ， 因此不能修改输入数量 
+	*输入是安装顺序给的 ， 因此随意更改模板中参数的顺序可能会无法实例化
+-->
+
+<Template>
+
+	<TOP_BEAM_PANEL_LEFT>      
+		<ID>
+			<Title Title="TOP_BEAM_PANEL_LEFT"/>
+			<PartName PartName="prd-78727352-00004105"/>
+			<Revision Revision="A.1"/>
+			<PWName	PWName="TOP_BEAM_PANEL_LEFT"/>
+		</ID>
+		<INPUTS>
+			<INPUT Name="P1" />
+			<INPUT Name="P2" />
+			<INPUT Name="L1" />
+			<INPUT Name="L2" />
+			<INPUT Name="BOD_L" />
+		</INPUTS>
+		<PARAMETERS>
+			<PARAMETER Name="桥面板右侧宽"/>			
+		</PARAMETERS>
+	</TOP_BEAM_PANEL_LEFT>
+  
+	<TOP_BEAM_PANEL_MIDDLE>      
+		<ID>
+			<Title Title="TOP_BEAM_PANEL_MIDDLE"/>
+			<PartName PartName="prd-78727352-00004105"/>
+			<Revision Revision="A.1"/>
+			<PWName	PWName="TOP_BEAM_PANEL"/>
+		</ID>
+		<INPUTS>
+			<INPUT Name="P1" />
+			<INPUT Name="P2" />
+			<INPUT Name="L1" />
+			<INPUT Name="L2" />
+
+		</INPUTS>
+		<PARAMETERS>
+			<PARAMETER Name="桥面板宽"/>			
+		</PARAMETERS>
+		
+	</TOP_BEAM_PANEL_MIDDLE>
+  	
+	<TOP_BEAM_PANEL_RIGHT>      
+		<ID>
+			<Title Title="TOP_BEAM_PANEL_RIGHT"/>
+			<PartName PartName="prd-78727352-00004105"/>
+			<Revision Revision="A.1"/>
+			<PWName	PWName="TOP_BEAM_PANEL_RIGHT"/>
+		</ID>
+		<INPUTS>
+			<INPUT Name="P1" />
+			<INPUT Name="P2" />
+			<INPUT Name="L1" />
+			<INPUT Name="L2" />
+			<INPUT Name="BOD_R" />
+
+		</INPUTS>
+		<PARAMETERS>
+			<PARAMETER Name="桥面板左侧宽"/>			
+		</PARAMETERS>
+
+	</TOP_BEAM_PANEL_RIGHT>
+	
+	<STEELBEAM>      
+		<ID>
+			<Title Title="STEELBEAM"/>
+			<PartName PartName="prd-78727352-00004105"/>
+			<Revision Revision="A.1"/>
+			<PWName	PWName="STEEL_BEAM"/>
+		</ID>
+		<INPUTS>
+			<INPUT Name="P1" />
+			<INPUT Name="P2" />
+			<INPUT Name="L1" />
+			<INPUT Name="L2" />
+
+		</INPUTS>
+		
+		<PARAMETERS>
+			<PARAMETER Name="钢梁边梁端封模板横向宽_P1_L"/>	
+			<PARAMETER Name="钢梁边梁端封模板横向宽_P1_R"/>	
+			<PARAMETER Name="钢梁边梁端封模板横向宽_P2_L"/>	
+			<PARAMETER Name="钢梁边梁端封模板横向宽_P2_R"/>	
+			<PARAMETER Name="钢梁腹板支点埋入段顺桥向总长_P1"/>
+			<PARAMETER Name="钢梁腹板支点埋入段顺桥向总长_P2"/>
+		
+		</PARAMETERS>
+		
+	</STEELBEAM>
+	
+ 
+</Template>
+

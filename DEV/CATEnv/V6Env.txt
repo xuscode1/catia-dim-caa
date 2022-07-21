@@ -1,0 +1,97 @@
+!----------------------------------------------------------
+!   DASSAULT SYSTEMES  -  ENVIRONMENT FILE
+!----------------------------------------------------------
+! MODE : User
+! PRODUCT LINE : 
+! TMSTMP : 1633488323
+! ARGS : -a user 
+! MARKETING VERSION : 
+!----------------------------------------------------------
+
+!----------------------------------------------------------
+! CATIA 注意 CAT_CODE_0-6 在bat文件里面设置了。
+!----------------------------------------------------------
+
+CATInstallPath=%CAT_CODE_6%\win_b64;%CAT_CODE_5%\win_b64;%CAT_CODE_4%\win_b64;%CAT_CODE_3%\win_b64;%CAT_CODE_2%\win_b64;%CAT_CODE_1%\win_b64;%CAT_CODE_0%\%DSY_TENANT%\win_b64;%CAT_CODE%\win_b64
+CATDLLPath=%CAT_CODE_6%\win_b64\code\bin;%CAT_CODE_5%\win_b64\code\bin;%CAT_CODE_4%\win_b64\code\bin;%CAT_CODE_3%\win_b64\code\bin;%CAT_CODE_2%\win_b64\code\bin;%CAT_CODE_1%\win_b64\code\bin;%CAT_CODE_0%\%DSY_TENANT%\win_b64\code\bin;%CAT_CODE%\win_b64\code\bin
+CATICPath=%CAT_CODE_6%\win_b64\code\productIC;%CAT_CODE_5%\win_b64\code\productIC;%CAT_CODE_4%\win_b64\code\productIC;%CAT_CODE_3%\win_b64\code\productIC;%CAT_CODE_2%\win_b64\code\productIC;%CAT_CODE_1%\win_b64\code\productIC;%CAT_CODE_0%\%DSY_TENANT%\win_b64\code\productIC;%CAT_CODE%\win_b64\code\productIC
+CATCommandPath=%CAT_CODE_6%\win_b64\code\command;%CAT_CODE_5%\win_b64\code\command;%CAT_CODE_4%\win_b64\code\command;%CAT_CODE_3%\win_b64\code\command;%CAT_CODE_2%\win_b64\code\command;%CAT_CODE_1%\win_b64\code\command;%CAT_CODE_0%\%DSY_TENANT%\win_b64\code\command;%CAT_CODE%\win_b64\code\command
+CATDictionaryPath=%CAT_CODE_6%\win_b64\code\dictionary;%CAT_CODE_5%\win_b64\code\dictionary;%CAT_CODE_4%\win_b64\code\dictionary;%CAT_CODE_3%\win_b64\code\dictionary;%CAT_CODE_2%\win_b64\code\dictionary;%CAT_CODE_1%\win_b64\code\dictionary;%CAT_CODE_0%\%DSY_TENANT%\win_b64\code\dictionary;%CAT_CODE%\win_b64\code\dictionary
+CATReffilesPath=%CAT_CODE_6%\win_b64\reffiles;%CAT_CODE_5%\win_b64\reffiles;%CAT_CODE_4%\win_b64\reffiles;%CAT_CODE_3%\win_b64\reffiles;%CAT_CODE_2%\win_b64\reffiles;%CAT_CODE_1%\win_b64\reffiles;%CAT_CODE_0%\%DSY_TENANT%\win_b64\reffiles;%CAT_CODE%\win_b64\reffiles
+CATFontPath=%CAT_CODE_6%\win_b64\resources\fonts;%CAT_CODE_5%\win_b64\resources\fonts;%CAT_CODE_4%\win_b64\resources\fonts;%CAT_CODE_3%\win_b64\resources\fonts;%CAT_CODE_2%\win_b64\resources\fonts;%CAT_CODE_1%\win_b64\resources\fonts;%CAT_CODE_0%\%DSY_TENANT%\win_b64\resources\fonts;%CAT_CODE%\win_b64\resources\fonts
+CATGalaxyPath=%CAT_CODE_6%\win_b64\resources\galaxy;%CAT_CODE_5%\win_b64\resources\galaxy;%CAT_CODE_4%\win_b64\resources\galaxy;%CAT_CODE_3%\win_b64\resources\galaxy;%CAT_CODE_2%\win_b64\resources\galaxy;%CAT_CODE_1%\win_b64\resources\galaxy;%CAT_CODE_0%\%DSY_TENANT%\win_b64\resources\galaxy;%CAT_CODE%\win_b64\resources\galaxy
+CATGraphicPath=%CAT_CODE_6%\win_b64\resources\AppDescription;%CAT_CODE_6%\win_b64\resources\graphic;%CAT_CODE_6%\win_b64\resources\graphic\icons;%CAT_CODE_6%\win_b64\resources\graphic\figures;%CAT_CODE_6%\win_b64\resources\graphic\splashscreens;%CAT_CODE_6%\win_b64\resources\graphic\symbols;%CAT_CODE_6%\win_b64\resources\graphic\textures;%CAT_CODE_5%\win_b64\resources\AppDescription;%CAT_CODE_5%\win_b64\resources\graphic;%CAT_CODE_5%\win_b64\resources\graphic\icons;%CAT_CODE_5%\win_b64\resources\graphic\figures;%CAT_CODE_5%\win_b64\resources\graphic\splashscreens;%CAT_CODE_5%\win_b64\resources\graphic\symbols;%CAT_CODE_5%\win_b64\resources\graphic\textures;%CAT_CODE_4%\win_b64\resources\AppDescription;%CAT_CODE_4%\win_b64\resources\graphic;%CAT_CODE_4%\win_b64\resources\graphic\icons;%CAT_CODE_4%\win_b64\resources\graphic\figures;%CAT_CODE_4%\win_b64\resources\graphic\splashscreens;%CAT_CODE_4%\win_b64\resources\graphic\symbols;%CAT_CODE_4%\win_b64\resources\graphic\textures;%CAT_CODE_3%\win_b64\resources\AppDescription;%CAT_CODE_3%\win_b64\resources\graphic;%CAT_CODE_3%\win_b64\resources\graphic\icons;%CAT_CODE_3%\win_b64\resources\graphic\figures;%CAT_CODE_3%\win_b64\resources\graphic\splashscreens;%CAT_CODE_3%\win_b64\resources\graphic\symbols;%CAT_CODE_3%\win_b64\resources\graphic\textures;%CAT_CODE_2%\win_b64\resources\AppDescription;%CAT_CODE_2%\win_b64\resources\graphic;%CAT_CODE_2%\win_b64\resources\graphic\icons;%CAT_CODE_2%\win_b64\resources\graphic\figures;%CAT_CODE_2%\win_b64\resources\graphic\splashscreens;%CAT_CODE_2%\win_b64\resources\graphic\symbols;%CAT_CODE_2%\win_b64\resources\graphic\textures;%CAT_CODE_1%\win_b64\resources\AppDescription;%CAT_CODE_1%\win_b64\resources\graphic;%CAT_CODE_1%\win_b64\resources\graphic\icons;%CAT_CODE_1%\win_b64\resources\graphic\figures;%CAT_CODE_1%\win_b64\resources\graphic\splashscreens;%CAT_CODE_1%\win_b64\resources\graphic\symbols;%CAT_CODE_1%\win_b64\resources\graphic\textures;%CAT_CODE_0%\%DSY_TENANT%\win_b64\resources\AppDescription;%CAT_CODE%\win_b64\resources\AppDescription;%CAT_CODE_0%\%DSY_TENANT%\win_b64\resources\graphic;%CAT_CODE%\win_b64\resources\graphic;%CAT_CODE_0%\%DSY_TENANT%\win_b64\resources\graphic\icons;%CAT_CODE%\win_b64\resources\graphic\icons;%CAT_CODE_0%\%DSY_TENANT%\win_b64\resources\graphic\figures;%CAT_CODE%\win_b64\resources\graphic\figures;%CAT_CODE_0%\%DSY_TENANT%\win_b64\resources\graphic\splashscreens;%CAT_CODE%\win_b64\resources\graphic\splashscreens;%CAT_CODE_0%\%DSY_TENANT%\win_b64\resources\graphic\symbols;%CAT_CODE%\win_b64\resources\graphic\symbols;%CAT_CODE_0%\%DSY_TENANT%\win_b64\resources\graphic\textures;%CAT_CODE%\win_b64\resources\graphic\textures
+CATMsgCatalogPath=%CAT_CODE_6%\win_b64\resources\msgcatalog;%CAT_CODE_5%\win_b64\resources\msgcatalog;%CAT_CODE_4%\win_b64\resources\msgcatalog;%CAT_CODE_3%\win_b64\resources\msgcatalog;%CAT_CODE_2%\win_b64\resources\msgcatalog;%CAT_CODE_1%\win_b64\resources\msgcatalog;%CAT_CODE_0%\%DSY_TENANT%\win_b64\resources\msgcatalog;%CAT_CODE%\win_b64\resources\msgcatalog
+CATFeatureCatalogPath=%CAT_CODE_6%\win_b64\resources\featurecatalog;%CAT_CODE_5%\win_b64\resources\featurecatalog;%CAT_CODE_4%\win_b64\resources\featurecatalog;%CAT_CODE_3%\win_b64\resources\featurecatalog;%CAT_CODE_2%\win_b64\resources\featurecatalog;%CAT_CODE_1%\win_b64\resources\featurecatalog;%CAT_CODE_0%\%DSY_TENANT%\win_b64\resources\featurecatalog;%CAT_CODE%\win_b64\resources\featurecatalog
+CATDefaultCollectionStandard=%CAT_CODE_6%\win_b64\resources\standard;%CAT_CODE_5%\win_b64\resources\standard;%CAT_CODE_4%\win_b64\resources\standard;%CAT_CODE_3%\win_b64\resources\standard;%CAT_CODE_2%\win_b64\resources\standard;%CAT_CODE_1%\win_b64\resources\standard;%CAT_CODE_0%\%DSY_TENANT%\win_b64\resources\standard;%CAT_CODE%\win_b64\resources\standard
+CATKnowledgePath=%CAT_CODE_6%\win_b64\resources\knowledge;%CAT_CODE_5%\win_b64\resources\knowledge;%CAT_CODE_4%\win_b64\resources\knowledge;%CAT_CODE_3%\win_b64\resources\knowledge;%CAT_CODE_2%\win_b64\resources\knowledge;%CAT_CODE_1%\win_b64\resources\knowledge;%CAT_CODE_0%\%DSY_TENANT%\win_b64\resources\knowledge;%CAT_CODE%\win_b64\resources\knowledge
+CATStartupPath=%CAT_CODE_6%\win_b64\startup;%CAT_CODE_5%\win_b64\startup;%CAT_CODE_4%\win_b64\startup;%CAT_CODE_3%\win_b64\startup;%CAT_CODE_2%\win_b64\startup;%CAT_CODE_1%\win_b64\startup;%CAT_CODE_0%\%DSY_TENANT%\win_b64\startup;%CAT_CODE%\win_b64\startup
+CATW3ResourcesPath=%CAT_CODE_6%\win_b64\docs;%CAT_CODE_5%\win_b64\docs;%CAT_CODE_4%\win_b64\docs;%CAT_CODE_3%\win_b64\docs;%CAT_CODE_2%\win_b64\docs;%CAT_CODE_1%\win_b64\docs;%CAT_CODE_0%\%DSY_TENANT%\win_b64\docs;%CAT_CODE%\win_b64\docs
+CATReconcilePath=
+CATReferenceSettingPath=%CAT_CODE_6%\win_b64\startup\Settings;%CAT_CODE_5%\win_b64\startup\Settings;%CAT_CODE_4%\win_b64\startup\Settings;%CAT_CODE_3%\win_b64\startup\Settings;%CAT_CODE_2%\win_b64\startup\Settings;%CAT_CODE_1%\win_b64\startup\Settings;%CAT_CODE_0%\%DSY_TENANT%\win_b64\startup\Settings;%CAT_CODE%\win_b64\startup\Settings
+CATUserSettingPath=CATSettings\DSKEY_RELEASE_LEVEL\DESKTOP
+CATCollectionStandard=CATStandard\CATCollectionStandard
+CATTemp=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATTemp
+CATErrorLog=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATTemp\error.log
+CATReport=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATReport
+CATDisciplinePath=
+USER_HOME=CSIDL_PERSONAL
+JAVA_HOME=%JAVA_HOME%
+CLASSPATH_JDBC=
+CLASSPATH=%CLASSPATH_JDBC%;%CLASSPATH%
+PATH=%CAT_CODE_6%\win_b64\code\bin;%CAT_CODE_6%\win_b64\code\command;%CAT_CODE_5%\win_b64\code\bin;%CAT_CODE_5%\win_b64\code\command;%CAT_CODE_4%\win_b64\code\bin;%CAT_CODE_4%\win_b64\code\command;%CAT_CODE_3%\win_b64\code\bin;%CAT_CODE_3%\win_b64\code\command;%CAT_CODE_2%\win_b64\code\bin;%CAT_CODE_2%\win_b64\code\command;%CAT_CODE_1%\win_b64\code\bin;%CAT_CODE_1%\win_b64\code\command;%CAT_CODE_0%\%DSY_TENANT%\win_b64\code\bin;%CAT_CODE%\win_b64\code\bin;%CAT_CODE_0%\%DSY_TENANT%\win_b64\code\command;%CAT_CODE%\win_b64\code\command;%JAVA_HOME%\bin;%PATH%
+DPCRuntimeView=%CAT_CODE_0%\%DSY_TENANT%
+
+
+!----------------------------------------------------------
+! CATIA 3DEXPERIENCE CUS_Env
+!----------------------------------------------------------
+
+
+XCAD_IMPORT_MATERIAL=true
+XCAD_IMPORT_MATERIAL_FORCED_MODE=2
+SPA_XCAD_MATERIAL_TEXTURE=1
+TPE_Autosurf=1 
+TPE_TrnChidi=1 
+
+CEG_WATERSHED=1
+CEG_SUBGRADE=1 
+CEG_SUBGRADE_PUB=1 
+CEG_SUBGRADE_ROAD_DESIGN=1 
+CEG_DRAINAGE=1
+CEG_TEST_COMMAND=1
+CEG_CRSImport_SubPath=1
+CEG_CRSExport=1
+CEG_BDPImportDXF=1
+CEG_DRAINAGE=1
+CEG_TEST_COMMAND=1
+CEG_CRSImport_SubPath=1
+CEG_CRSExport=1
+CEG_BDPImportDXF=1
+CEG_DRAINAGE=1
+CEG_Rebars=1
+CEG_RebarsAdvanced=1
+CEG_Alignments=1
+CEG_Alignments_Scaling=1
+CEG_SHAPE_COMMAND=1
+CEG_SplitWindow=1
+CEG_BDPImportDXF=1
+CEG_CAA_Alignment=1
+CEG_ImportCloudOfPoint=1
+CEG_WATERSHED=1
+
+PSD_POLYHEDRAL=1
+
+VISU_SECTIONING_VIEW_ODT=1
+CLIPPING_BOX_TOOL_ODT=1
+CATAfrDeclarativeDump =1
+UDF_PC_DIFFERENT_SCALE_INSTANTIATION=1
+DBDI_ForceCycleMigration=1
+RBR_TEST_COMMAND=1
+CNEXTOUTPUT=console
+CATForceNotCertifiedGraphics=1
+MMR_SHOW_MECH_PART_CMD=1
+CATLM_OTDS=1
+
+RBR_TEST_COMMAND=1
+CATDXAllowDataExchangePLMBatchExportPVS=1

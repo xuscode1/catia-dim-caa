@@ -1,0 +1,27 @@
+
+//----------------------------------------------------------------------------
+// WORKSHOP
+//----------------------------------------------------------------------------
+CATCivil3DModelingWorkbench.Title      = "Civil 3D Design Extension";
+CATCivil3DModelingWorkbench.ShortHelp  = "Civil 3D Design Extension";
+CATCivil3DModelingWorkbench.Help       = "Civil 3D Design Extension";
+CATCivil3DModelingWorkbench.LongHelp   = "Civil 3D Design Extension";
+
+//----------------------------------------------------------------------------
+// TOOLBAR 
+//---------------------------------------------------------------------------- 
+
+Tab_Civil3DWkbSection.Title="Civil";
+Tab_Road3DWkbSection.Title="Road";
+Tab_Terrain3DWkbSection.Title="Terrain";
+Tab_Bridge3DWkbSection.Title="Bridge";
+Tab_RebarSection.Title="Rebar";
+Tab_DrawingSection.Title="Drawing";
+Tab_AdditionalCivil3DWkbSection.Title="Additional";
+Tab_WireframeAndSurface.Title="Wireframe And Surface";
+Tab_Volume.Title="Volume";
+Tab_Solid.Title="Solid";
+Tab_Functional.Title="Functional";
+Tab_Review.Title="Review";
+AfrViewSection.Title="View";
+AfrGeneralSection.Title="Tools";

@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+Title = "CATDRWFromAxisSetDlg";
+Label1.Title = "Axis Sets : ";
+Label2.Title = "Product : ";
+
+msg.Title = "Error";
+msg.Text = "Axis数量或Part数量小于1";
+
+msg1.Title = "Error";
+msg1.Text = "创建图纸或创建视图失败";

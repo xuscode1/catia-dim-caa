@@ -1,0 +1,4 @@
+CATGlobalAddinHeader.CATZbufferHdr.Title     = "Z-buffer";
+CATGlobalAddinHeader.CATZbufferHdr.Help      = "Z-buffer";
+CATGlobalAddinHeader.CATZbufferHdr.ShortHelp = "Display all elements using Z-buffer depth.";
+CATGlobalAddinHeader.CATZbufferHdr.LongHelp  = "Activates the Z-buffer so that all elements hide each otherWhen activated , all elements including lines and planes( usually displayed in front of other elements ) are displayedat their true depth in the 3D scene . When deactivated linesand planes are always displayed in front of other elements .";

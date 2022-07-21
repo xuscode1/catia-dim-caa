@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RoadMarking>
+	<Type Name = "RoadSign">
+		<Sign Name = "道路标牌1" ID ="prd-94417684-00014026" Version = "A.1" Bmp = "a.bmp"/>
+		<Sign Name = "道路标牌2" ID ="prd-94417684-00014027" Version = "A.1" Bmp = "b.bmp"/>
+		<Sign Name = "道路标牌3" ID ="aec-94417684-000000073" Version = "A.1" Bmp = "c.bmp"/>
+	</Type>
+	<Type Name = "RoadStreetLamp">
+		<Sign Name = "Type1" ID ="prd-44525640-00004953" Version = "A.1" Bmp = "a.bmp"/>
+		<Sign Name = "Type2" ID ="prd-44525640-00004921" Version = "A.1" Bmp = "a1.bmp"/>
+		<Sign Name = "Type3" ID ="prd-44525640-00005123" Version = "A.1" Bmp = "a2.bmp"/>
+	</Type>
+	<Type Name = "RoadGreening">
+		<Sign Name = "灌木" ID ="prd-44525640-00005044" Version = "A.1" Bmp = "a.bmp"/>
+		<Sign Name = "红叶树" ID ="prd-44525640-00005107" Version = "A.1" Bmp = "b.bmp"/>
+	</Type>
+	<Type Name = "RoadGuardrail">
+		<Sign Name = "护栏SS" ID ="prd-44525640-00003617" Version = "A.1" Bmp = "a.bmp" Length = "25"/>
+		<Sign Name = "护栏SS" ID ="prd-44525640-00003617" Version = "A.1" Bmp = "b.bmp" Length = "5"/>
+	</Type>
+</RoadMarking>

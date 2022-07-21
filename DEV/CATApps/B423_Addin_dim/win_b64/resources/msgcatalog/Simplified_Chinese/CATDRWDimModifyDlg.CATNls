@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+
+Title = "标注文字修改";
+Frame1.Title = "设置";
+Frame1.Label1.Title = " 选择标注: ";
+Frame1.Label2.Title = " 文字值: ";

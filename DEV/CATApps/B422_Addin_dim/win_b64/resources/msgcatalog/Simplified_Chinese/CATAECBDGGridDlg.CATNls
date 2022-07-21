@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+Title = "轴网";
+Frame1.Title = "轴网";
+Frame1.Label1.Title = "类型 ";
+Frame1.Label2.Title = "名称 ";
+Frame1.Label3.Title = "立面平面偏移 : ";

@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+CATAECAnnDimTwoPointCmd.SelectOnePoint.Message="选择点1";
+CATAECAnnDimTwoPointCmd.SelectTwoPoint.Message="选择点2";
+CATAECAnnDimTwoPointCmd.InputName.Message="输入名称";
+CATAECAnnDimTwoPointCmd.InputValue.Message="输入值";

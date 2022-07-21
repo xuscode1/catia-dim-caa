@@ -1,0 +1,57 @@
+{79715386-a381-4eef-87d9-c78a8ce07602} CATIAECFeatureFactory
+
+{ed541026-56c2-467a-9fc8-489fa94014ed} CATICIVGeologyFeature
+ 
+{e5495c3d-7557-442e-ac8f-c546e6af1354} CATIAECRoadIntersection
+
+{fa651ac9-f98e-420a-b9cc-0d1506cdd293} CATIAECHorizontalDimensionFeature
+  
+{6a407a9d-3d28-4934-85fd-805aba0f7c77} CATIAECAlignmentFactory
+ 
+{f1fe42e9-5183-4dfc-8647-c2cfc5b789b2} CATIArcGridPlan
+ 
+{ebccbe36-db7d-4f77-97a9-360f48f5a07c} CATIArcGridIntersection
+ 
+{671bfdb3-87ff-42eb-9c88-21395eacfb47} CATIArcGridElevation
+
+{035ef469-c225-4dce-8a61-f6695d584254} CATIArcGridPlanFeature
+ 
+{b46f194f-7933-440f-9c0c-cb101070fafc} CATIArcGridElevationFeature
+ 
+{c3aa7421-b76c-46a5-ac86-bc36b184719a} CATIArcGridGEOIntersectionFeature
+ 
+{019f2230-506d-4714-ade4-a980bffe4964} CATIArcGridIntersectionFeature
+
+{10f7f7b6-6d3b-42aa-82a0-2df0617ebb4f} CATIArcAnnotationOnePointFeature
+ 
+{5ea6093d-dae5-4983-8f91-b677a260cf74} CATIArcAnnotationTwoPointFeature
+ 
+{f4e01980-3d99-4dad-a5e6-9b26d6638d78} CATIArcAnnotationAngleThreePointFeature
+ 
+{688615c0-af9d-489a-b63e-8c93b3198ed2} CATIArcAnnotationAngleTwoLineFeature
+ 
+{cfeef515-53b6-4359-a038-7f414d6d8789} CATIArcAnnotationRadiusFeature
+ 
+{27a3feb3-450d-4847-941a-d60f73003c87} CATIDRWPositionFeature
+ 
+{c1c9d552-f3b0-44dd-bea3-c8528d2730fd} CATIAECAlignDimensionFeature
+ 
+{0fe159fa-e0ec-498c-816b-7c2b4c4eea87} CAAIAECAnnotationLinear
+ 
+{6051039a-b166-4f5e-9075-0cdcdd531dd8} CAAIAECAnnotationSet
+ 
+{0bbd99a4-0957-47f4-ab78-efc0f3405e14} CAAIAECAnnotationRadius
+ 
+{93ea245a-cf47-4cc6-b1e7-50ed9351fee7} CATIAECRoadSectionTypeOne
+
+{7ca4bf29-e89a-4acd-b895-8bedd6619ffc} CATIAECStationingAxisFeature
+ 
+{7a445245-0608-4fe2-96b3-6a24fbcfce96} CATIAECAlignment3DSetFeature
+ 
+{85574b78-5ecf-41ed-adfb-194c6e5bf0f2} CATIAECAlignmentHorizontalSetFeature
+ 
+{2efb5378-c7fd-4fa8-b5c1-1791066ed436} CATIAECAlignmentSetFeature
+ 
+{2f8f7213-a39a-40b3-aef2-320e1b6c9395} CATIAECAlignmentVerticalSetFeature
+ 
+

@@ -1,0 +1,7 @@
+Label1.Title = "[十CATDRWFromAxisSetDlg,Label1.Title十一構ソチ－Axis Sets : ]";
+Title = "[十CATDRWFromAxisSetDlg,Title十一構ソチ－CATDRWFromAxisSetDlg]";
+msg1.Title = "[十CATDRWFromAxisSetDlg,msg1.Title十一構ソチ－Error]";
+Label2.Title = "[十CATDRWFromAxisSetDlg,Label2.Title十一構ソチ－Product : ]";
+msg.Title = "[十CATDRWFromAxisSetDlg,msg.Title十一構ソチ－Error]";
+msg1.Text = "[十CATDRWFromAxisSetDlg,msg1.Text十一構ソチ－???????????]";
+msg.Text = "[十CATDRWFromAxisSetDlg,msg.Text十一構ソチ－Axis???Part????1]";

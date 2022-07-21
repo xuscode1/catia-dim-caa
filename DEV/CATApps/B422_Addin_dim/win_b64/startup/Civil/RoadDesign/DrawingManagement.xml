@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DrawingManagement>
+    <Type Name="ProjectTypes">
+        <Sign Name="市政" Standard="ISO" />
+        <Sign Name="高速" Standard="ZSSJ" />
+    </Type>
+    <Type Name="DrawingStyle">
+        <Sign Name="A1 ISO" ID="drw-94417684-00002699" Version="A.1" AnnotationPosition="596,27.5,596,20.5,596,13.5,675.5,27.5,675.5,20.5,675.5,13.5,724.5,27.5,724.5,20.5,724.5,13.5,787.5,27.5,787.5,20.5,773.5,13.5,801,13.5" />
+        <Sign Name="A2 ISO" ID="drw-94417684-00002698" Version="A.1" AnnotationPosition="349,27.5,349,20.5,349,13.5,428.5,27.5,428.5,20.5,428.5,13.5,477.5,27.5,477.5,20.5,477.5,13.5,540.5,27.5,540.5,20.5,526.5,13.5,554,13.5" />
+        <Sign Name="A3 ISO" ID="drw-94417684-00002697" Version="A.1" AnnotationPosition="175,27.5,175,20.5,175,13.5,254.5,27.5,254.5,20.5,254.5,13.5,303.5,27.5,303.5,20.5,303.5,13.5,366.5,27.5,366.5,20.5,352.5,13.5,380,13.5" />
+    </Type>
+    <Type Name="InitValue">
+        <Sign Name="大桥" Description="项目名称" />
+        <Sign Name="桥墩" Description="专业名称" />
+        <Sign Name="详图" Description="图纸名称" />
+        <Sign Name="张某" Description="项目负责人" />
+        <Sign Name="刘某" Description="专业负责人" />
+        <Sign Name="王某" Description="设计人" />
+        <Sign Name="A" Description="校核人" />
+        <Sign Name="张某" Description="审核人" />
+        <Sign Name="李某" Description="审定人" />
+        <Sign Name="验收" Description="设计阶段" />
+        <Sign Name="88" Description="图号" />
+        <Sign Name="2020.6.20" Description="日期" />
+        <Sign Name="0.25" Description="比例" />
+    </Type>
+</DrawingManagement>

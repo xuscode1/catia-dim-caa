@@ -1,0 +1,5 @@
+Title = "[~CATDRWPositionDlg,Title~ Dråwîng Réference ]";
+Frame1.Title = "[~CATDRWPositionDlg,Frame1.Title~ Sétüp]";
+Frame1.Label2.Title = "[~CATDRWPositionDlg,Frame1.Label2.Title~  Léngth(m) : ]";
+Frame1.Label3.Title = "[~CATDRWPositionDlg,Frame1.Label3.Title~ RGB Cølor : ]";
+Frame1.Label1.Title = "[~CATDRWPositionDlg,Frame1.Label1.Title~  Sélect Axîs : ]";

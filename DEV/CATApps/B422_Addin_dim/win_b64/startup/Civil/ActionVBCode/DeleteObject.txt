@@ -1,0 +1,71 @@
+
+
+'Auther:XU Song
+'Sub main()
+
+Dim sel As Selection
+Set sel = CATIA.ActiveEditor.Selection
+
+Set ObjectSet = part
+sel.Clear
+If TypeName(ObjectSet) = "Body" Then
+    For j = 1 To ObjectSet.Shapes.Count
+        On Error Resume Next
+        'Dim obj1 As ShapeInstance
+        Set obj1 = ObjectSet.Shapes.Item(j)
+        sel.Add obj1
+    Next
+    If sel.Count <> 0 Then
+        sel.Delete
+    End If
+    
+ElseIf TypeName(ObjectSet) = "OrderedGeometricalSet" Then
+    For j = 1 To ObjectSet.HybridShapes.Count
+        On Error Resume Next
+        'Dim obj1
+        Set obj1 = ObjectSet.HybridShapes.Item(j)
+        sel.Add obj1
+    Next
+    If sel.Count <> 0 Then
+        sel.Delete
+	else
+		For j = 1 To ObjectSet.OrderedGeometricalSets.Count
+        On Error Resume Next
+        'Dim obj1 As OrderedGeometricalSet
+        Set obj1 = ObjectSet.OrderedGeometricalSets.Item(j)
+			for k= 1 to obj1.HybridShapes.Count
+				sel.Add obj1.HybridShapes.Item(k)
+			next    
+		Next
+		If sel.Count <> 0 Then
+			sel.Delete
+		End If
+    End If
+Else
+    For j = 1 To ObjectSet.HybridShapes.Count
+        On Error Resume Next
+        'Dim obj1 As ShapeInstance
+        Set obj1 = ObjectSet.HybridShapes.Item(j)
+        sel.Add obj1
+    Next
+
+	If sel.Count <> 0 Then
+		sel.Delete
+	else
+		For j = 1 To ObjectSet.HybridBodies.Count
+        On Error Resume Next
+        Dim obj1 As hybridbody
+        Set obj1 = ObjectSet.HybridBodies.Item(j)
+			for k= 1 to obj1.HybridShapes.Count
+				sel.Add obj1.HybridShapes.Item(k)
+			next    
+		Next
+		If sel.Count <> 0 Then
+			sel.Delete
+		End If
+	End If
+		
+End If
+
+End Sub
+

@@ -1,0 +1,17 @@
+.\win_b64\code\bin\CATAEC3DAnnotationFeature.dll
+.\win_b64\code\bin\CATAEC3DAnnotationFeature.pdb
+.\win_b64\code\bin\CATAECFeatureFactory.dll
+.\win_b64\code\bin\CATAECFeatureFactory.pdb
+.\win_b64\code\bin\CATDRWPositionFeature.dll
+.\win_b64\code\bin\CATDRWPositionFeature.pdb
+.\win_b64\code\dictionary\CATAECFeatureInterfaces.iid
+.\win_b64\code\lib\CATAEC3DAnnotationFeature.exp
+.\win_b64\code\lib\CATAEC3DAnnotationFeature.lib
+.\win_b64\code\lib\CATAECFeatureFactory.exp
+.\win_b64\code\lib\CATAECFeatureFactory.lib
+.\win_b64\code\lib\CATDRWPositionFeature.exp
+.\win_b64\code\lib\CATDRWPositionFeature.lib
+.\win_b64\code\productIC\CATAECFeatureInterfacesIC.required
+.\win_b64\code\productIC\CATAECFeatureInterfacesIC.script
+.\win_b64\code\productIC\CATAECFeatureInterfacesIC.xml
+.\win_b64\control\CATAECFeatureInterfaces

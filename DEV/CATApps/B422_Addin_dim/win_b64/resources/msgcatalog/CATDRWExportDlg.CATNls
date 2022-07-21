@@ -1,0 +1,16 @@
+Title = "Export Drawings";
+Frame1.Title = "Setup";
+Frame1.Label1.Title = "Product :";
+Frame1.Label2.Title = "Export Path :";
+Frame1.PushButton1.Title = "Browse...";
+Frame1.Label5.Title = "                                                                               ";
+Frame1.Label3.Title = "All Drawing :";
+Frame1.PushButton2.Title.Backup = "Delete";
+Frame1.Label6.Title = "                                                                               ";
+Frame2.Title = "Data";
+Frame2.CheckButton2.Title = "CAD";
+Frame2.CheckButton1.Title = "PDF";
+Frame2.Label4.Title = "                                                                               ";
+Frame1.PushButton2.Title = "Delete";
+Frame2.Label3.Title = "All Drawing :";
+Frame2.PushButton2.Title = "Delete";

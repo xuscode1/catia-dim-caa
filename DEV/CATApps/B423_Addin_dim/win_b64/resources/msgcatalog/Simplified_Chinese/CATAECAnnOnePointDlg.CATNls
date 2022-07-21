@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+Title = "单点标注";
+Frame1.Title = "设置";
+Frame1.Label1.Title = " 点 ";
+Frame1.Label2.Title = " 名称 ";
+Frame1.Label3.Title = " 2D部件名称 ";
+Frame1.Label4.Title = " 值 ";
+
+msg.Title = "提示";
+msg.Text = "特征所有输入不得为空！";

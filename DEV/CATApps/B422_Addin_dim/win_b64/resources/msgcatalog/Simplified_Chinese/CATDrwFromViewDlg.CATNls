@@ -1,0 +1,15 @@
+<meta charset="UTF-8"/>
+
+Title = "标注集图纸";
+Frame1.Title = "设置";
+Frame1.Label1.Title = "图纸 ";
+Frame1.Label2.Title = "剖切平面 ";
+Frame1.Label3.Title = " 视图模式 ";
+Frame1.CheckButton1.Title = "Projection View";
+Frame1.Label4.Title = " 视图模式 ";
+Frame1.Label5.Title = " 视图模式 ";
+Frame1.CheckButton2.Title = "Section View";
+Frame1.CheckButton3.Title = "Section Cut";
+Frame1.Label6.Title = " 视图模式 ";
+Frame1.Label7.Title = " 视图模式 ";
+Frame1.Label8.Title = " 视图模式 ";

@@ -1,0 +1,31 @@
+<meta charset="UTF-8"/>
+
+AEC3DModelingWkbAddinHeader.CATAECAnnOnePointHdr.Title     = "单点标注";
+AEC3DModelingWkbAddinHeader.CATAECAnnOnePointHdr.Help      = "选择一个点，将会根据选择的点的数据，进行2D图纸部件的实例化";
+AEC3DModelingWkbAddinHeader.CATAECAnnOnePointHdr.ShortHelp = "选择一个点，将会根据选择的点的数据，进行2D图纸部件的实例化";
+AEC3DModelingWkbAddinHeader.CATAECAnnOnePointHdr.LongHelp  = "选择一个点，将会根据选择的点的数据，进行2D图纸部件的实例化";
+
+AEC3DModelingWkbAddinHeader.CATAECAnnDimTwoPointHdr.Title     = "尺寸标注";
+AEC3DModelingWkbAddinHeader.CATAECAnnDimTwoPointHdr.Help      = "选择两个点，进行尺寸标注";
+AEC3DModelingWkbAddinHeader.CATAECAnnDimTwoPointHdr.ShortHelp = "选择两个点，进行尺寸标注";
+AEC3DModelingWkbAddinHeader.CATAECAnnDimTwoPointHdr.LongHelp  = "选择两个点，进行尺寸标注";
+
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleTwoLineHdr.Title     = "角度标注";
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleTwoLineHdr.Help      = "选择两个直线。";
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleTwoLineHdr.ShortHelp = "选择两个直线。";
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleTwoLineHdr.LongHelp  = "选择两个直线。";
+
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleThreePointHdr.Title     = "Angle(3 Points)";
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleThreePointHdr.Help      = "Select 3 points and then generate an angular dimension.";
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleThreePointHdr.ShortHelp = "Select 3 points and then generate an angular dimension.";
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleThreePointHdr.LongHelp  = "Select 3 points and then generate an angular dimension.";
+
+AEC3DModelingWkbAddinHeader.CATAECAnnRadiusHdr.Title     = "半径标注";
+AEC3DModelingWkbAddinHeader.CATAECAnnRadiusHdr.Help      = "半径标注";
+AEC3DModelingWkbAddinHeader.CATAECAnnRadiusHdr.ShortHelp = "半径标注";
+AEC3DModelingWkbAddinHeader.CATAECAnnRadiusHdr.LongHelp  = "半径标注";
+
+AEC3DModelingWkbAddinHeader.CATDRWPositionHdr.Title     = "图纸基准参考";
+AEC3DModelingWkbAddinHeader.CATDRWPositionHdr.Help      = "基于一个轴系，创建投影需要的定位线";
+AEC3DModelingWkbAddinHeader.CATDRWPositionHdr.ShortHelp = "基于一个轴系，创建投影需要的定位线";
+AEC3DModelingWkbAddinHeader.CATDRWPositionHdr.LongHelp  = "基于一个轴系，创建投影需要的定位线";

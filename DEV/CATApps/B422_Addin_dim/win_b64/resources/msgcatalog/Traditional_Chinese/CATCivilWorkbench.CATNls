@@ -1,0 +1,17 @@
+<meta charset="UTF-8"/>
+
+//----------------------------------------------------------------------------
+// WORKSHOP
+//----------------------------------------------------------------------------
+CATCivilWorkbench.Title      = "土木工程产品";
+CATCivilWorkbench.ShortHelp  = "土木工程产品模块";
+CATCivilWorkbench.Help       = "土木工程产品级别的设计";
+CATCivilWorkbench.LongHelp   = "土木工程产品级别的设计";
+//----------------------------------------------------------------------------
+// TOOLBAR
+//----------------------------------------------------------------------------
+AdditionalSection.Title="擴展";
+BridgeSubstructureSection.Title = "下部結構";
+BridgeSuperstructureSection.Title = "上部結構";
+BridgeGlobalDataSection.Title="全局數據";
+DPCivil3DWkbSection.Title="功能擴展";

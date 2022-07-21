@@ -1,0 +1,11 @@
+<meta charset="UTF-8"/>
+Title = "Drawing Update";
+Label4.Title = " Select Product : ";
+msg1.Title = "Warning";
+msg1.Text = "No files";
+msg2.Title = "Warning";
+msg2.Text = "Error,Please make sure the object you select is a PRODUCT,This subset of the product contains many 3DPart and Drawing！";
+msg3.Title = "Warning";
+msg3.Text = "Wirte error！";
+msg.Title = "Warning";
+msg.Text = "The input can not be empty！";

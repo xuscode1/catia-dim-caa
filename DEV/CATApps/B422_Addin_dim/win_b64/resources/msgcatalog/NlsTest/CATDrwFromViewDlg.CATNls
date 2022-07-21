@@ -1,0 +1,13 @@
+Title = "[~CATDrwFromViewDlg,Title~ Annøtåtîon Drawing]";
+Frame1.Title = "[~CATDrwFromViewDlg,Frame1.Title~ Sétüp]";
+Frame1.Label6.Title = "[~CATDrwFromViewDlg,Frame1.Label6.Title~  Vîéw Nåme : ]";
+Frame1.Label7.Title = "[~CATDrwFromViewDlg,Frame1.Label7.Title~  Vîéw Nåme : ]";
+Frame1.Label4.Title = "[~CATDrwFromViewDlg,Frame1.Label4.Title~  Vîéw Møde : ]";
+Frame1.Label5.Title = "[~CATDrwFromViewDlg,Frame1.Label5.Title~  Vîéw Møde : ]";
+Frame1.Label2.Title = "[~CATDrwFromViewDlg,Frame1.Label2.Title~ Sélect Cüt Plåne : ]";
+Frame1.Label3.Title = "[~CATDrwFromViewDlg,Frame1.Label3.Title~  Vîéw Møde : ]";
+Frame1.Label1.Title = "[~CATDrwFromViewDlg,Frame1.Label1.Title~ Sélect Dråwîng : ]";
+Frame1.Label8.Title = "[~CATDrwFromViewDlg,Frame1.Label8.Title~  Vîéw Nåme : ]";
+Frame1.CheckButton3.Title = "[~CATDrwFromViewDlg,Frame1.CheckButton3.Title~ Séctîøn Cüt]";
+Frame1.CheckButton2.Title = "[~CATDrwFromViewDlg,Frame1.CheckButton2.Title~ Séctîøn View]";
+Frame1.CheckButton1.Title = "[~CATDrwFromViewDlg,Frame1.CheckButton1.Title~ Prøjéctîon View]";

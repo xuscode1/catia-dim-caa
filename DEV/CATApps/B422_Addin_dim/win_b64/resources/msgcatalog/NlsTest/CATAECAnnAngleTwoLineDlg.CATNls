@@ -1,0 +1,6 @@
+Title = "[~CATAECAnnAngleTwoLineDlg,Title~ CATAECAnnAngléTwøLîneDlg]";
+Frame1.Title = "[~CATAECAnnAngleTwoLineDlg,Frame1.Title~ Fråmé1]";
+Frame1.Label4.Title = "[~CATAECAnnAngleTwoLineDlg,Frame1.Label4.Title~  Sélect Lîne2 : ]";
+Frame1.Label2.Title = "[~CATAECAnnAngleTwoLineDlg,Frame1.Label2.Title~  Vålüé : ]";
+Frame1.Label3.Title = "[~CATAECAnnAngleTwoLineDlg,Frame1.Label3.Title~  Sélect Lîne1 : ]";
+Frame1.Label1.Title = "[~CATAECAnnAngleTwoLineDlg,Frame1.Label1.Title~  Nåmé : ]";

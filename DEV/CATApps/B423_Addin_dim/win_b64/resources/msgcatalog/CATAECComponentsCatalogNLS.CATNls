@@ -1,0 +1,55 @@
+<meta charset="UTF-8"/>
+CjwAnchorBolt = "AnchorBar";
+
+//CATGrid
+ArcGridPlan = "Grid Plan Set";
+ArcGridElevation = "Grid Elevation Set";
+ArcGridIntersection = "Grid Intersection Set";
+ArcGridPlanFeature = "Grid Plan Axis";
+ArcGridElevationFeature = "Grid Elevation Plane";
+ArcGridGEOIntersectionFeature = "Grid Geometrical Set Intersection";
+ArcGridIntersectionFeature = "Grid Intersection";
+//CATAnnotation
+
+ArcAnnotationOnePointFeature = "Annotation One Point";
+ArcAnnotationTwoPointFeature = "Annotation Two Point";
+ArcAnnotationAngleThreePointFeature = "Annotation Angle Three Point";
+ArcAnnotationAngleTwoLineFeature = "Annotation Angle Two Lines";
+ArcAnnotationRadiusFeature = "Annotation Radius Feature";
+//Part drawing reference
+DRWPositionFeature = "Drawing Reference";
+
+//AEC Geo feature define
+CivilBridgePierFeature = "AnchorBar";
+AECAnnotationSet = "Annotation Set";
+AECAnnotationLinear = "Annotation Linear";
+AECAnnotationRadius = "Annotation Radius";
+// dimension
+AlignDimensionFeature = "Align Dimension";
+
+AECStationingData = "Stationing Data";
+AECRoadIntersection = "Road Intersection";
+CATCIVGeologyFeature = "Civil Geology";
+AECClothoid = "Alignment Clothoid";
+CATAECBDGTypeCurve = "Civil Curve";
+// BIM design  sets
+AECPierData = "Bridge Pier Data";
+// IFC object
+IFCBridge = "Bridge";
+IFCSpan = "Span";
+//cat new drw
+CATNewDrwFeature = "Drawing Set";
+// ArcWallSetFeature
+ArcWallSetFeature = "Wall Set";
+// Binding the drawing
+CATNewSheetFeature = "New Sheet";
+CATFrontViewFeature = "Front View";
+AECRoadSectionTypeOne  = "Road Section Type One";
+// AECAlignment design
+CATAECAlignmentSetFeature ="Alignment Set";
+CATAECAlignmentHorizontalSetFeature ="Alignment Horizontal Set";
+CATAECAlignmentVerticalSetFeature ="Alignment Vertical Set";
+CATAECAlignment3DSetFeature ="Alignment 3D Set";
+AECStationingAxisFeature  ="AECStationing Axis";
+
+

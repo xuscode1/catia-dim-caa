@@ -1,0 +1,18 @@
+hb1,icount
+'Main (hb1,icount)
+If hb1.Bodies.Count <> 0 Then
+	CATIA.ActiveEditor.Selection.Clear
+	For k = 1 To hb1.Bodies.Count
+		Dim hb0obj As Body
+		Set hb0obj = hb1.Bodies.Item(k)
+				CATIA.ActiveEditor.Selection.Add hb0obj      
+	Next
+	CATIA.ActiveEditor.Selection.Delete
+End If
+Dim i as integer
+For i = 1 To icount
+	Dim hb2 As Body
+	Set hb2 = hb1.Bodies.Add
+	hb2.Name = "BEAM_" + CStr(i)
+Next
+End Sub

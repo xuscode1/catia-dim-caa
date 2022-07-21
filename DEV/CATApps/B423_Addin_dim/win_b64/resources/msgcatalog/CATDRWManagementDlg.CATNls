@@ -1,0 +1,24 @@
+<meta charset="UTF-8"/>
+Title = "Drawing Management";
+Label1.Title = "项目名称 : ";
+Label2.Title = "图纸名称 : ";
+Label3.Title = "图号 : ";
+Label4.Title = "项目负责人 : ";
+Label5.Title = "专业负责人 : ";
+Label6.Title = "设计人 : ";
+Label7.Title = "日期 : ";
+Label8.Title = "专业名称 : ";
+Label9.Title = "设计阶段 : ";
+Label10.Title = "比例(1:2 = 0.5) : ";
+Label11.Title = "校核人 : ";
+Label12.Title = "审核人 : ";
+Label13.Title = "审定人 : ";
+Label14.Title = "项目类型 : ";
+Label15.Title = "图框尺寸 : ";
+
+FileError.Title = "Error";
+FileError.Text = "该路径下XML文件不存在，请检查 !";
+XmlError.Title = "Error";
+XmlError.Text = "从XML文件中获取数据失败,请检查文件 !";
+OpenError.Title = "Error";
+OpenError.Text = "根据ID获取零件失败,请检查ID是否存在 !";

@@ -1,0 +1,4 @@
+Title = "[~CATDRWDimModifyDlg,Title~ Mødîfy Diméntion]";
+Frame1.Title = "[~CATDRWDimModifyDlg,Frame1.Title~ Sétüp]";
+Frame1.Label2.Title = "[~CATDRWDimModifyDlg,Frame1.Label2.Title~  Vålüé : ]";
+Frame1.Label1.Title = "[~CATDRWDimModifyDlg,Frame1.Label1.Title~  Sélect Dîm : ]";

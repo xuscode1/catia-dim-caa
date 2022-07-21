@@ -1,0 +1,18 @@
+<meta charset="UTF-8"/>
+
+Title = "导出图纸";
+Frame1.Title = "设置";
+Frame1.Label1.Title = "选择产品:";
+Frame1.Label2.Title = "导出路径:";
+Frame1.PushButton1.Title = "浏览...";
+Frame1.Label5.Title = "                                                                               ";
+Frame1.Label3.Title = "图纸:";
+Frame1.PushButton2.Title.Backup = "删除";
+Frame1.Label6.Title = "                                                                               ";
+Frame2.Title = "数据";
+Frame2.CheckButton2.Title = "DWG";
+Frame2.CheckButton1.Title = "PDF";
+Frame2.Label4.Title = "                                                                               ";
+Frame1.PushButton2.Title = "删除";
+Frame2.Label3.Title = "图纸:";
+Frame2.PushButton2.Title = "删除";

@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+Title = "绘图参考 ";
+Frame1.Title = "设置";
+Frame1.Label1.Title = "定位轴系 : ";
+Frame1.Label2.Title = "长度(m) : ";
+Frame1.Label3.Title = "色彩 : ";

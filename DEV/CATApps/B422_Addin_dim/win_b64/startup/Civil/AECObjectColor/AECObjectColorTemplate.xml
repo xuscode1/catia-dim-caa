@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding = 'UTF-8'?>
+
+
+<Template>
+  <AEC Title="AECObject">
+    <StructureList>
+		<Parameter Name="Abutment" R = "0" G = "255" B = "255" />
+		<Parameter Name="Anchor block" R = "1" G = "188" B = "133" />
+		<Parameter Name="Arch" R = "21" G = "66" B = "213" />
+		<Parameter Name="Arch segment" R = "21" G = "66" B = "213" />	  
+		<Parameter Name="Beam" R = "155" G = "22" B = "145" />
+		<Parameter Name="Bridge" R = "155" G = "22" B = "145" />
+		<Parameter Name="Building" R = "155" G = "22" B = "145" />
+		<Parameter Name="Calbe" R = "155" G = "22" B = "145" />
+		<Parameter Name="Chimey" R = "155" G = "22" B = "145" />
+		<Parameter Name="Column" R = "155" G = "22" B = "145" />
+		<Parameter Name="Covering" R = "155" G = "22" B = "145" />
+		<Parameter Name="Crosshead" R = "155" G = "22" B = "145" />
+		<Parameter Name="Curtain wall " R = "155" G = "22" B = "145" />
+		<Parameter Name="Deck segment" R = "155" G = "22" B = "145" />
+		<Parameter Name="Discreate accessory" R = "155" G = "22" B = "145" />
+		<Parameter Name="Dock" R = "155" G = "22" B = "145" />
+		<Parameter Name="Door" R = "155" G = "22" B = "145" />
+		<Parameter Name="Footing" R = "155" G = "22" B = "145" />
+		<Parameter Name="Hanger" R = "155" G = "22" B = "145" />
+		<Parameter Name="Hanger cable" R = "155" G = "22" B = "145" />	  
+		<Parameter Name="Member" R = "155" G = "22" B = "145" />
+		<Parameter Name="Opening element" R = "155" G = "22" B = "145" />
+		<Parameter Name="Other bridge structural " R = "155" G = "22" B = "145" />
+		<Parameter Name="Pier" R = "99" G = "153" B = "243" />
+		<Parameter Name="Pier segment" R = "155" G = "22" B = "145" />
+		<Parameter Name="Pile" R = "155" G = "22" B = "145" />
+		<Parameter Name="Plate" R = "155" G = "22" B = "145" />
+		<Parameter Name="Railing" R = "155" G = "22" B = "145" />
+		<Parameter Name="Ramp" R = "155" G = "22" B = "145" />
+		<Parameter Name="Ramp flight" R = "155" G = "22" B = "145" />
+		<Parameter Name="Rdinforcing bar" R = "155" G = "22" B = "145" />
+		<Parameter Name="Rdinforcing mesh" R = "155" G = "22" B = "145" />
+		<Parameter Name="Roof" R = "155" G = "22" B = "145" />
+		<Parameter Name="Shading device" R = "155" G = "22" B = "145" />
+		<Parameter Name="Slab" R = "155" G = "22" B = "145" />
+		<Parameter Name="Space" R = "155" G = "22" B = "145" />
+		<Parameter Name="Span" R = "155" G = "22" B = "145" />
+		<Parameter Name="Stair" R = "155" G = "22" B = "145" />
+		<Parameter Name="Stair fight" R = "155" G = "22" B = "145" />
+		<Parameter Name="Stay belt" R = "155" G = "22" B = "145" />
+		<Parameter Name="Stay cable" R = "155" G = "22" B = "145" />
+		<Parameter Name="Stiffener" R = "155" G = "22" B = "145" />
+		<Parameter Name="Suspension cable" R = "155" G = "22" B = "145" />
+		<Parameter Name="Suspension system" R = "155" G = "22" B = "145" />
+		<Parameter Name="Tendon" R = "155" G = "22" B = "145" />
+		<Parameter Name="Tendon anchor" R = "155" G = "22" B = "145" />
+		<Parameter Name="Tower" R = "155" G = "22" B = "145" />
+		<Parameter Name="Tower segment" R = "155" G = "22" B = "145" />
+		<Parameter Name="Wall" R = "155" G = "22" B = "145" />
+		<Parameter Name="Way" R = "155" G = "22" B = "145" />
+		<Parameter Name="Window" R = "155" G = "22" B = "145" />
+		<Parameter Name="--------------------" R = "155" G = "22" B = "145" />
+
+		
+
+
+		
+		
+    </StructureList>
+  </AEC>
+
+  <!--   -->
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+</Template>

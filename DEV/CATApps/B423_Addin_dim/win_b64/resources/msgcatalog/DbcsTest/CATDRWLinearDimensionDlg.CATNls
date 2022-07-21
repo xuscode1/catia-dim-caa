@@ -1,0 +1,10 @@
+Title = "[十CATDRWLinearDimensionDlg,Title十一構ソチ－Instantiate 2D Component]";
+Frame1.Title = "[十CATDRWLinearDimensionDlg,Frame1.Title十一構ソチ－setup]";
+Frame1.SelAxis.Title = "[十CATDRWLinearDimensionDlg,Frame1.SelAxis.Title十一構ソチ－UDF Sets :]";
+Frame1.Label4.Title = "[十CATDRWLinearDimensionDlg,Frame1.Label4.Title十一構ソチ－Point Name:]";
+Frame1.Label2.Title = "[十CATDRWLinearDimensionDlg,Frame1.Label2.Title十一構ソチ－Distance From Max Y :]";
+Frame1.Label1.Title = "[十CATDRWLinearDimensionDlg,Frame1.Label1.Title十一構ソチ－Drawing :]";
+Frame1.PushButton1.Title = "[十CATDRWLinearDimensionDlg,Frame1.PushButton1.Title十一構ソチ－PushButton1]";
+Frame2.Title = "[十CATDRWLinearDimensionDlg,Frame2.Title十一構ソチ－Frame2]";
+Frame1.2DCom.Title = "[十CATDRWLinearDimensionDlg,Frame1.2DCom.Title十一構ソチ－2D Component Name: ]";
+Frame2.Label3.Title = "[十CATDRWLinearDimensionDlg,Frame2.Label3.Title十一構ソチ－Label3]";

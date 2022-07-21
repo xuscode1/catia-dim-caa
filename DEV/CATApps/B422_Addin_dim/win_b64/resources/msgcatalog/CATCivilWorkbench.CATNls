@@ -1,0 +1,13 @@
+
+//----------------------------------------------------------------------------
+// WORKSHOP
+//----------------------------------------------------------------------------
+CATCivilWorkbench.Title      = "Building and Civil Assemblies Extension";
+CATCivilWorkbench.ShortHelp  = "Building and Civil Assemblies Extension";
+CATCivilWorkbench.Help       = "Building and Civil Assemblies Extension";
+CATCivilWorkbench.LongHelp   = "Building and Civil Assemblies Extension";
+
+//----------------------------------------------------------------------------
+// TOOLBAR 
+//---------------------------------------------------------------------------- 
+AdditionalSection.Title="Additional";

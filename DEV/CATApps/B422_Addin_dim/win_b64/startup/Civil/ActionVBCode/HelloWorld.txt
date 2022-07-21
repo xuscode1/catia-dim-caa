@@ -1,0 +1,6 @@
+A,B
+
+'Writen By DS
+Msgbox(A+B)
+
+End Sub

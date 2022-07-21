@@ -1,0 +1,7 @@
+Label1.Title = "[~CATDRWFromAxisSetDlg,Label1.Title~ Axîs Séts : ]";
+Title = "[~CATDRWFromAxisSetDlg,Title~ CATDRWFrømAxîsSétDlg]";
+msg1.Title = "[~CATDRWFromAxisSetDlg,msg1.Title~ Errør]";
+Label2.Title = "[~CATDRWFromAxisSetDlg,Label2.Title~ Prødüct : ]";
+msg.Title = "[~CATDRWFromAxisSetDlg,msg.Title~ Errør]";
+msg1.Text = "[~CATDRWFromAxisSetDlg,msg1.Text~ ???????????]";
+msg.Text = "[~CATDRWFromAxisSetDlg,msg.Text~ Axîs???Pårt????1]";

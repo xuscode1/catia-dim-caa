@@ -1,0 +1,10 @@
+Title = "[~CATDRWLinearDimensionDlg,Title~ Inståntîaté 2D Cømponent]";
+Frame1.Title = "[~CATDRWLinearDimensionDlg,Frame1.Title~ sétüp]";
+Frame1.SelAxis.Title = "[~CATDRWLinearDimensionDlg,Frame1.SelAxis.Title~ UDF Séts :]";
+Frame1.Label4.Title = "[~CATDRWLinearDimensionDlg,Frame1.Label4.Title~ Pøînt Nåmé:]";
+Frame1.Label2.Title = "[~CATDRWLinearDimensionDlg,Frame1.Label2.Title~ Dîståncé Frøm Max Y :]";
+Frame1.Label1.Title = "[~CATDRWLinearDimensionDlg,Frame1.Label1.Title~ Dråwîng :]";
+Frame1.PushButton1.Title = "[~CATDRWLinearDimensionDlg,Frame1.PushButton1.Title~ PüshButtøn1]";
+Frame2.Title = "[~CATDRWLinearDimensionDlg,Frame2.Title~ Fråmé2]";
+Frame1.2DCom.Title = "[~CATDRWLinearDimensionDlg,Frame1.2DCom.Title~ 2D Cømponént Nåme: ]";
+Frame2.Label3.Title = "[~CATDRWLinearDimensionDlg,Frame2.Label3.Title~ Låbél3]";

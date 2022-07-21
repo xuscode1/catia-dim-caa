@@ -1,0 +1,25 @@
+Sub CATMain()
+
+
+        '****************************************************************************************************
+        Dim KPColl As New Collection
+        
+        CATIA.ActiveEditor.Selection.Clear
+        CATIA.ActiveEditor.Selection.Selection.Search "Knowledgeware.'Knowledge Pattern'"
+        ‘知识工程.知识工程模式
+        
+
+        For LoopNum = 1 To CATIA.ActiveEditor.Selection.Count
+            Call KPColl.Add(CATIA.ActiveEditor.Selection.Item(LoopNum).Value)
+        Next
+
+        For LoopNum = 1 To KPColl.Count
+            CATIA.ActiveEditor.Selection.Clear
+            CATIA.ActiveEditor.Selection.Add (KPColl.Item(LoopNum))
+            CATIA.StartCommand ("Execute and Upgrade")
+            'CATIA.ActiveEditor.Part.Update
+        Next
+        MsgBox ("Finished knowledge pattern execution")
+        
+        
+End Sub

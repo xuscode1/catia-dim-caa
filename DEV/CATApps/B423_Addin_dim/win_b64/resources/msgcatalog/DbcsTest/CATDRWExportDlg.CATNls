@@ -1,0 +1,16 @@
+Title = "[十CATDRWExportDlg,Title十一構ソチ－Export Drawings]";
+Frame1.Title = "[十CATDRWExportDlg,Frame1.Title十一構ソチ－Setup]";
+Frame2.CheckButton2.Title = "[十CATDRWExportDlg,Frame2.CheckButton2.Title十一構ソチ－CAD]";
+Frame1.Label6.Title = "[十CATDRWExportDlg,Frame1.Label6.Title十十十十十十一構ソチ－                                                                               ]";
+Frame1.Label5.Title = "[十CATDRWExportDlg,Frame1.Label5.Title十十十十十十一構ソチ－                                                                               ]";
+Frame1.Label2.Title = "[十CATDRWExportDlg,Frame1.Label2.Title十一構ソチ－Export Path :]";
+Frame1.Label3.Title = "[十CATDRWExportDlg,Frame1.Label3.Title十一構ソチ－All Drawing :]";
+Frame1.Label1.Title = "[十CATDRWExportDlg,Frame1.Label1.Title十一構ソチ－Product :]";
+Frame1.PushButton1.Title = "[十CATDRWExportDlg,Frame1.PushButton1.Title十一構ソチ－Browse...]";
+Frame2.CheckButton1.Title = "[十CATDRWExportDlg,Frame2.CheckButton1.Title十一構ソチ－PDF]";
+Frame2.PushButton2.Title = "[十CATDRWExportDlg,Frame2.PushButton2.Title十一構ソチ－Delete]";
+Frame1.PushButton2.Title.Backup = "[十CATDRWExportDlg,.PushButton2.Title.Backup十一構ソチ－Delete]";
+Frame2.Title = "[十CATDRWExportDlg,Frame2.Title十一構ソチ－Data]";
+Frame2.Label4.Title = "[十CATDRWExportDlg,Frame2.Label4.Title十十十十十十一構ソチ－                                                                               ]";
+Frame2.Label3.Title = "[十CATDRWExportDlg,Frame2.Label3.Title十一構ソチ－All Drawing :]";
+Frame1.PushButton2.Title = "[十CATDRWExportDlg,Frame1.PushButton2.Title十一構ソチ－Delete]";

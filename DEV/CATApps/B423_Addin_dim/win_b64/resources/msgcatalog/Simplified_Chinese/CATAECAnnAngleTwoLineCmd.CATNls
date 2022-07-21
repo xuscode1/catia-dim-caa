@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+CATAECAnnAngleTwoLineCmd.SelectOneLine.Message="线 1";
+CATAECAnnAngleTwoLineCmd.SelectTwoLine.Message="线 2";
+CATAECAnnAngleTwoLineCmd.InputName.Message="名称";
+CATAECAnnAngleTwoLineCmd.InputValue.Message="值";

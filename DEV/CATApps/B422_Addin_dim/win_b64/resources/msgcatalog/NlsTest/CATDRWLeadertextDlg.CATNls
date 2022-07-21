@@ -1,0 +1,4 @@
+Title = "[~CATDRWLeadertextDlg,Title~ Léåder text]";
+Frame1.Title = "[~CATDRWLeadertextDlg,Frame1.Title~ Sétüp]";
+Frame1.Label2.Title = "[~CATDRWLeadertextDlg,Frame1.Label2.Title~  Téxt : ]";
+Frame1.Label1.Title = "[~CATDRWLeadertextDlg,Frame1.Label1.Title~  Pøînts : ]";

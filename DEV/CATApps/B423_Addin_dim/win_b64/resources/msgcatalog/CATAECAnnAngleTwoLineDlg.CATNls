@@ -1,0 +1,6 @@
+Title = "CATAECAnnAngleTwoLineDlg";
+Frame1.Title = "Frame1";
+Frame1.Label1.Title = " Name : ";
+Frame1.Label2.Title = " Value : ";
+Frame1.Label3.Title = " Select Line1 : ";
+Frame1.Label4.Title = " Select Line2 : ";

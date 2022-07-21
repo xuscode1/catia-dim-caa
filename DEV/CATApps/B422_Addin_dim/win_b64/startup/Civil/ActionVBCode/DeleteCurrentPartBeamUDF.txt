@@ -1,0 +1,188 @@
+part
+
+'Auther:XU Song
+'Sub main()
+
+Dim oeditor  As INFITF.Editor
+Set oeditor = CATIA.ActiveEditor
+
+'Dim part As part
+Set part = part'oeditor.ActiveObject
+
+Dim hsf As HybridShapeFactory
+Set hsf = part.HybridShapeFactory
+
+Dim sel As Selection
+Set sel = CATIA.ActiveEditor.Selection
+
+'Debug.Print part.Name
+
+
+'*************************************************************
+'***MODEL_GAP
+'*************************************************************
+Dim hb6 As OrderedGeometricalSet
+Set hb6 = part.FindObjectByName("MODEL_GAP")
+sel.Clear
+For j = 1 To hb6.HybridShapes.Count
+
+    On Error Resume Next
+    Dim hb6obj As HybridShapeInstance
+    Set hb6obj = hb6.HybridShapes.Item(j)
+    
+    ' Dim hb6ref As Reference
+    ' Set hb6ref = hb6obj
+    ' hsf.DeleteObjectForDatum hb6ref
+    sel.add hb6obj
+Next
+sel.Delete
+
+'*************************************************************
+'***DRW_SECTION_UDFS_P2
+'*************************************************************
+Dim hb4 As OrderedGeometricalSet
+Set hb4 = part.FindObjectByName("DRW_SECTION_UDFS_P2")
+sel.Clear
+For j = 1 To hb4.HybridShapes.Count
+
+On Error Resume Next
+    Dim hb4obj As HybridShapeInstance
+    Set hb4obj = hb4.HybridShapes.Item(j)
+    sel.add hb4obj
+	
+    ' Dim hb4ref As Reference
+    ' Set hb4ref = hb4obj
+    ' hsf.DeleteObjectForDatum hb4ref
+Next
+sel.Delete
+'*************************************************************
+'***DRW_SECTION_UDFS_P1
+'*************************************************************
+Dim hb3 As OrderedGeometricalSet
+Set hb3 = part.FindObjectByName("DRW_SECTION_UDFS_P1")
+sel.Clear
+For j = 1 To hb3.HybridShapes.Count
+
+On Error Resume Next
+    Dim hb3obj As HybridShapeInstance
+    Set hb3obj = hb3.HybridShapes.Item(j)
+    sel.add hb3obj
+    ' Dim hb3ref As Reference
+    ' Set hb3ref = hb3obj
+    ' hsf.DeleteObjectForDatum hb3ref
+Next
+sel.Delete
+
+'*************************************************************
+'***MODEL_POURING_BEAM_P2
+'*************************************************************
+Dim hb2 As OrderedGeometricalSet
+Set hb2 = part.FindObjectByName("MODEL_POURING_BEAM_P2")
+sel.Clear
+
+For j = 1 To hb2.HybridShapes.Count
+
+	On Error Resume Next
+    Dim hb2obj As HybridShapeInstance
+    Set hb2obj = hb2.HybridShapes.Item(j)
+    sel.add hb2obj
+    ' Dim hb2ref As Reference
+    ' Set hb2ref = hb2obj
+    ' hsf.DeleteObjectForDatum hb2ref
+Next
+sel.Delete
+'*************************************************************
+'***MODEL_POURING_BEAM_P1
+'*************************************************************
+Dim hb1 As OrderedGeometricalSet
+Set hb1 = part.FindObjectByName("MODEL_POURING_BEAM_P1")
+For j = 1 To hb1.HybridShapes.Count
+sel.Clear
+On Error Resume Next
+    Dim hb1obj As HybridShapeInstance
+    Set hb1obj = hb1.HybridShapes.Item(j)
+    sel.add hb1obj
+    ' Dim hb1ref As Reference
+    ' Set hb1ref = hb1obj
+    ' hsf.DeleteObjectForDatum hb1ref
+Next
+sel.Delete
+
+
+'*************************************************************
+'***DRW_PLANER_BEAM_GAP
+'*************************************************************
+Dim hb5 As OrderedGeometricalSet
+Set hb5 = part.FindObjectByName("DRW_PLANER_BEAM_GAP")
+sel.Clear
+
+For j = 1 To hb5.HybridShapes.Count
+
+    On Error Resume Next
+    Dim hb5obj As HybridShapeInstance
+    Set hb5obj = hb5.HybridShapes.Item(j)
+    sel.add hb5obj
+    ' Dim hb5ref As Reference
+    ' Set hb5ref = hb5obj
+    ' hsf.DeleteObjectForDatum hb5ref
+Next
+sel.Delete
+
+'*************************************************************
+'***Delete all beam body
+'*************************************************************
+Dim beambody As Body
+Set beambody = part.FindObjectByName("BEAMS")
+'Debug.Print beambody.Shapes.Count
+sel.Clear
+For j = 1 To beambody.Shapes.Count
+
+	On Error Resume Next
+
+    Dim obj1 As ShapeInstance
+    Set obj1 = beambody.Shapes.Item(j)
+    sel.add obj1
+    ' Dim ref1 As Reference
+    ' Set ref1 = obj1
+    ' hsf.DeleteObjectForDatum ref1
+Next
+sel.Delete
+
+
+
+'*************************************************************
+'***Annotations
+'*************************************************************
+Dim hb0 As HybridBody
+Set hb0 = part.FindObjectByName("Annotation")
+For j = 1 To hb0.HybridBodies.Count
+
+    Dim hb01 As HybridBody
+    Set hb01 = hb0.HybridBodies.Item(j)
+
+    If hb01.HybridShapes.Count <> 0 Then
+        For k = 1 To hb01.HybridShapes.Count
+            On Error Resume Next
+            Dim hb0obj As HybridShape
+            Set hb0obj = hb01.HybridShapes.Item(k)
+
+            Debug.Print hb0obj.Name
+'
+'            Dim hb0ref As Reference
+'            Set hb0ref = hb6obj
+'            hsf.DeleteObjectForDatum hb0ref
+
+            On Error Resume Next
+            
+            If hb0obj <> Null Then
+                sel.Clear
+                sel.Add hb0obj
+                sel.Delete
+            End If
+            
+        Next
+    End If
+Next
+
+End Sub
+

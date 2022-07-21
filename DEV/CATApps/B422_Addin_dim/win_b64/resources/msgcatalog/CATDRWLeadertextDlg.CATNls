@@ -1,0 +1,4 @@
+Title = "Leader text";
+Frame1.Title = "Setup";
+Frame1.Label1.Title = " Points : ";
+Frame1.Label2.Title = " Text : ";

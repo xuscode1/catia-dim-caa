@@ -1,0 +1,12 @@
+﻿<meta charset="UTF-8"/>
+//--------------------------------------
+// Resource file for 3DEXPERIENCE ApplicationFrame
+// En_EN
+//--------------------------------------
+
+ApplicationFrame.Title	    = "3DEXPERIENCE"; // @validatedUsage AJT 13:11:05 3DEXPERIENCE
+DocumentMap.Name	    = "CATIAId2url"; //  @validatedUsage ERS 13:10:14
+CompanionMap.Name     = "CATIACompanion"; //  @validatedUsage ERS 13:10:14
+
+
+// The Base Type Libraries of 3DEXPERIENCE are in the RscCatalog !!

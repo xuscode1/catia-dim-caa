@@ -1,0 +1,29 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// WORKSHOP
+//----------------------------------------------------------------------------
+CATCivil3DModelingCNWorkbench.Title      = "道路与橋梁设计";
+CATCivil3DModelingCNWorkbench.ShortHelp  = "道路与橋梁设计";
+CATCivil3DModelingCNWorkbench.Help       = "道路与橋梁设计";
+CATCivil3DModelingCNWorkbench.LongHelp   = "道路与橋梁设计";
+
+//----------------------------------------------------------------------------
+// TOOLBAR 
+//---------------------------------------------------------------------------- 
+
+Tab_Civil3DWkbSection.Title="土木工程";
+Tab_Road3DWkbSection.Title="道路";
+Tab_Terrain3DWkbSection.Title="地形";
+Tab_Bridge3DWkbSection.Title="橋梁";
+Tab_RebarSection.Title="配筋";
+Tab_DataSection.Title="數據";
+Tab_StructureSection.Title="結構設計";
+Tab_DrawingSection.Title="製圖";
+Tab_AdditionalCivil3DWkbSection.Title="擴展";
+Tab_WireframeAndSurface.Title="曲面綫框";
+Tab_Volume.Title="包絡體";
+Tab_Solid.Title="實體";
+Tab_Functional.Title="功能性建模";
+Tab_Review.Title="審核";
+AfrViewSection.Title="視圖";
+AfrGeneralSection.Title="工具";

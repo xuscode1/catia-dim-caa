@@ -1,0 +1,4 @@
+Title = "[十CATDRWDimModifyDlg,Title十一構ソチ－Modify Dimention]";
+Frame1.Title = "[十CATDRWDimModifyDlg,Frame1.Title十一構ソチ－Setup]";
+Frame1.Label2.Title = "[十CATDRWDimModifyDlg,Frame1.Label2.Title十一構ソチ－ Value : ]";
+Frame1.Label1.Title = "[十CATDRWDimModifyDlg,Frame1.Label1.Title十一構ソチ－ Select Dim : ]";

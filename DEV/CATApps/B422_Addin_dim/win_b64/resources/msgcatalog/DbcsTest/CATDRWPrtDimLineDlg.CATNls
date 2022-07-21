@@ -1,0 +1,9 @@
+Title = "[十CATDRWPrtDimLineDlg,Title十一構ソチ－Line Dimsion Definition]";
+Frame1.Title = "[十CATDRWPrtDimLineDlg,Frame1.Title十一構ソチ－Setup]";
+Frame1.Label1.Title = "[十CATDRWPrtDimLineDlg,Frame1.Label1.Title十一構ソチ－Line Set     ]";
+Frame1.RadioButton1.Title = "[十CATDRWPrtDimLineDlg,Frame1.RadioButton1.Title十一構ソチ－GS]";
+Frame2.Title = "[十CATDRWPrtDimLineDlg,Frame2.Title十一構ソチ－UDF Setup]";
+Frame2.Label4.Title = "[十CATDRWPrtDimLineDlg,Frame2.Label4.Title十一構ソチ－Version]";
+Frame2.Label2.Title = "[十CATDRWPrtDimLineDlg,Frame2.Label2.Title十一構ソチ－Part Name]";
+Frame2.Label3.Title = "[十CATDRWPrtDimLineDlg,Frame2.Label3.Title十一構ソチ－UDF Name]";
+Frame1.RadioButton2.Title = "[十CATDRWPrtDimLineDlg,Frame1.RadioButton2.Title十一構ソチ－OGS]";

@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+CATAECAnnOnePointCmd.SelectPoint.Message="选择点";
+CATAECAnnOnePointCmd.InputName.Message="输入名称";
+CATAECAnnOnePointCmd.InputComponentName.Message="输入2D部件名称";
+CATAECAnnOnePointCmd.InputValue.Message="输入值";

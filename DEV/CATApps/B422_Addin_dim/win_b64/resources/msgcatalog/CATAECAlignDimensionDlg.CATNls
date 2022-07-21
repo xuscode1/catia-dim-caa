@@ -1,0 +1,9 @@
+Title = "CATAECAlignDimensionDlg";
+Frame1.Title = "Setup";
+Frame1.Label1.Title = "Point1 : ";
+Frame1.Label3.Title = "Plane : ";
+Frame1.Label4.Title = "EXT_H : ";
+Frame1.Label5.Title = "EXT_V_1 : ";
+Frame1.Label6.Title = "EXT_X : ";
+Frame1.Label2.Title = "Point2 : ";
+Frame1.Label7.Title = "EXT_V_2 : ";

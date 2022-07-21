@@ -1,0 +1,7 @@
+Title = "[十CATAECAnnDimTwoPointDlg,Title十一構ソチ－CATAECAnnDimTwoPointDlg]";
+Frame1.Title = "[十CATAECAnnDimTwoPointDlg,Frame1.Title十一構ソチ－Frame1]";
+Frame1.Label4.Title = "[十CATAECAnnDimTwoPointDlg,Frame1.Label4.Title十一構ソチ－ Select Point2 : ]";
+Frame1.Label5.Title = "[十CATAECAnnDimTwoPointDlg,Frame1.Label5.Title十一構ソチ－ DimType : ]";
+Frame1.Label2.Title = "[十CATAECAnnDimTwoPointDlg,Frame1.Label2.Title十一構ソチ－ Value : ]";
+Frame1.Label3.Title = "[十CATAECAnnDimTwoPointDlg,Frame1.Label3.Title十一構ソチ－ Select Point1 : ]";
+Frame1.Label1.Title = "[十CATAECAnnDimTwoPointDlg,Frame1.Label1.Title十一構ソチ－ Name : ]";

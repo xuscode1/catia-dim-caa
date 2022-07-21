@@ -1,0 +1,6 @@
+Title = "CATAECAnnOnePointDlg";
+Frame1.Title = "Frame1";
+Frame1.Label2.Title = " Name : ";
+Frame1.Label3.Title = " Component Name : ";
+Frame1.Label4.Title = " Value : ";
+Frame1.Label1.Title = " Select Point : ";

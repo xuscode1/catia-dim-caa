@@ -1,0 +1,11 @@
+<meta charset="UTF-8"/>
+Title = "图纸更新";
+Label4.Title = " 选择产品 ";
+msg1.Title = "警告";
+msg1.Text = "没有文件";
+msg2.Title = "警告";
+msg2.Text = "错误，请确保您选择的对象是PRODUCT，产品的此子集包含许多3DPart和工程图！";
+msg3.Title = "警告";
+msg3.Text = "写入错误";
+msg.Title = "警告";
+msg.Text = "输入不能为空！";

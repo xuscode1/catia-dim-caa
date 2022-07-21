@@ -1,0 +1,288 @@
+document `CATAECComponentsCatalog.CATfct` {
+	check_revision(0u3c611c50-1301-0000-faee643e8312eef8)
+	history("tl","","2020-05-27 06:19",0., 0u3c956ebc-0000-a4ec-5ece065400000006)
+	
+	#maturity=`Standard`
+	#type=`CAA`
+	
+	container `RootCont` #root #uuid(0u3c956ebc-0000-a4ec-5ece065400000002) {
+		
+// insert here your startups
+		//CATGrid
+		feature `ArcGridPlan` `GSMTool` @`MechMod.feat` #startup {
+		}
+		feature `ArcGridElevation``GSMTool`@`MechMod.feat` #startup {
+			component `ElevationOfRefHeight` #in
+		}
+		feature `ArcGridIntersection``GSMTool`@`MechMod.feat` #startup {
+		}
+		feature `ArcGridPlanFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			string `Name` #in
+			specobject `Input` #in
+			int `Desactive` #in
+		}
+		feature `ArcGridElevationFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			string `Name` #in
+			specobject `Input` #in
+			int `Desactive` #in
+		}
+		feature `ArcGridGEOIntersectionFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			string `Name` #in
+			specobject `Input1` #in
+			specobject `Input2` #in
+			int `Desactive` #in
+		}
+		feature `ArcGridIntersectionFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			string `Name` #in
+			specobject `Input` #in
+			int `Desactive` #in
+		}
+
+		//CATAnnotation
+
+		feature `ArcAnnotationOnePointFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			component `Name` #in
+			component `ComponentName` #in
+			component `Value` #in
+			specobject `Input` #in
+		}
+		feature `ArcAnnotationTwoPointFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			component `Name` #in
+			component `Value` #in
+			specobject `Input1` #in
+			specobject `Input2` #in
+			component `DimType` #in
+		}
+		feature `ArcAnnotationAngleThreePointFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			component `Name` #in
+			component `Value` #in
+			specobject `Input1` #in
+			specobject `Input2` #in
+			specobject `Input3` #in
+		}
+		feature `ArcAnnotationAngleTwoLineFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			component `Name` #in
+			component `Value` #in
+			specobject `Input1` #in
+			specobject `Input2` #in
+		}
+		feature `ArcAnnotationRadiusFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			component `Name` #in
+			component `Value` #in
+			specobject `Input` #in
+		}
+		//Part drawing reference
+		feature `DRWPositionFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			component `Length` #in
+			specobject `Input` #in
+		}
+
+		//AEC Geo feature define
+		feature `CivilBridgePierFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			component `Length` #in
+			specobject `Input` #in
+			component `Name` #in
+		}
+
+
+		feature `CATAnchorBolt``GSMGeom`@`CATHybridShape.feat` #startup {
+			specobject `referencePoint` #in
+			specobject `referenceDirection` #in
+			specobject `radius` #in
+			component `startPtDistance` #in
+			component `endPtDistance` #in
+			boolean `blReverse` #in
+			int `Desactive` #in
+		}
+
+		feature `AECAnnotationSet` `MechanicalSet`@`MechMod.feat` {
+
+		}
+
+		feature `AECAnnotationLinear``MechanicalElement`@`MechMod.feat` #startup {
+			specobject `LinearObject1` #in
+			specobject `LinearObject2` #in
+			specobject `LinearDirection` #in
+			component `LinearBRepObject1` #in
+			component `LinearBRepObject2` #in
+			component `LinearBRepDirection` #in
+			component `LinearAngle` #in
+			component `LinearValue` #in
+			component `LinearHeight` #in
+			component `LinearHorizontal` #in
+			component `LinearVertical` #in
+			component `LinearOblique` #in
+		}
+		feature `AECAnnotationRadius``MechanicalElement`@`MechMod.feat` #startup {
+			specobject `RadiusObject1` #in
+			specobject `RadiusObject2` #in
+			component `RadiusBRepObject1` #in
+			component `RadiusBRepObject2` #in
+			component `RadiusValue` #in
+			component `RadiusHeight` #in
+		}
+		// dimension
+
+		feature `AlignDimensionFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			specobject `Point1` #in
+			specobject `Point2` #in
+			specobject `Plane` #in
+			component `EXT_H` #in
+			component `EXT_V_1` #in
+			component `EXT_X` #in
+			component `EXT_V_2` #in
+			component `LABEL` #out
+			specobject `Line` #out
+			int `Desactive` #in
+			specobject `Middle_Point` #out
+		}
+
+
+		feature `AECStationingData``GSMTool`@`MechMod.feat` #startup {
+			specobject `Curve` #in
+			specobject `Point` #in
+			specobject `ParamList` #list #in
+		}
+		feature `AECRoadIntersection``GSMGeom`@`CATHybridShape.feat` #startup {
+			specobject `Point` #in
+			specobject `Right1` #in
+			specobject `Right2` #in
+			specobject `RightRoad` #in
+			specobject `Left1` #in
+			specobject `Left2` #in
+			specobject `LeftRoad` #in
+			component `Radius` #in
+			int `Desactive` #in
+		}
+
+		feature `CATCIVGeologyFeature``GSMGeom`@`CATHybridShape.feat` #startup {
+			specobject `Input` #in
+			component `GeotechnicalNumber` #in
+			component `SoillayerName` #in
+			component `Colour` #in
+			component `Plasticity` #in
+			component `Humidity` #in
+			component `Compactness` #in
+			component `Compressibility` #in
+			component `Soillayercharacterization` #in
+			component `Remarks` #in
+			component `MaxValue` #in
+			component `MinimumValue` #in
+			component `AverageValue` #in
+			component `StandardDeviation` #in
+			component `CoefficientOfVariation` #in
+			component `Count` #in
+			component `StandardValue` #in
+			component `NaturalWaterContent` #in
+			component `GrainSpecificGravity` #in
+			component `NaturalPorosity` #in
+			component `Saturation` #in
+			component `Liquidlimit` #in
+			component `PlasticLimit` #in
+			component `LiquidityIndex` #in
+			component `MassDensity` #in
+			component `PlasticityIndex` #in
+			component `CompressionFactor` #in
+			component `CompressionModulus` #in
+			component `StraightShearQuickShearCohesion` #in
+			component `StraightShearQuickShearInternalFrictionAngle` #in
+			component `StraightShearFastCohesion` #in
+			component `StraightShearFastInternalFrictionAngle` #in
+			component `StandardHits` #in
+			component `OrganicMatterContent` #in
+			component `VerticalPermeabilityCoefficient` #in
+			component `HorizontalPermeabilityTestCoefficient` #in
+			component `HorizontalPermeabilityCoefficient` #in
+			component `BasicAllowableValueOfBearingCapacity` #in
+			component `StandardValueOfSoilFrictionResistanceOnPileSide` #in
+			component `StandardValueOfAnchorUltimateBondStrength` #in
+			int `Desactive` #in
+		}
+
+
+		feature `AECClothoid``GSMGeom`@`CATHybridShape.feat` #startup {
+			specobject `Input1` #in
+			specobject `Input2` #in
+			component `R` #in
+			component `lt` #in
+			int `Desactive` #in
+			component `ls` #in
+			component `le` #in
+			component `pList` #in
+			specobject `List` #list #in
+		}
+		feature `CATAECBDGTypeCurve``GSMGeom`@`CATHybridShape.feat` #startup {
+			specobject `Curve` #in
+			specobject `AxisOrPoint1` #in
+			specobject `AxisOrPoint2` #in
+			component `BridgeType` #in
+			component `StartStationing` #in
+			int `Desactive` #in
+		}
+
+		// BIM design  sets
+		feature `AECPierData``GSMTool`@`MechMod.feat` #startup {
+
+		}
+		// IFC object
+		feature `IFCBridge``GSMTool`@`MechMod.feat` #startup {
+		}
+		feature `IFCSpan``GSMTool`@`MechMod.feat` #startup {
+		}
+
+		//cat new drw
+		feature `CATNewDrwFeature``GSMTool`@`MechMod.feat` #startup {
+
+		}
+
+		// ArcWallSetFeature
+		feature `ArcWallSetFeature``GSMTool`@`MechMod.feat` #startup {
+
+		}
+
+		// Binding the drawing
+		feature `CATNewSheetFeature``GSMTool`@`MechMod.feat` #startup {
+			specobject `Sheet` #in
+			specobject `Boundary` #in
+		}
+
+		feature `CATFrontViewFeature``GeometricalElement3D`@`MechMod.feat` #startup {
+			specobject `Support` #in
+			specobject `Axis` #in
+			component `Name` #in
+			component `Invert` #in
+			component `GVS` #in
+			specobject `View` #neutral
+			int `Desactive` #in
+			specobject `Boundary` #in
+		}
+
+
+		feature `AECRoadSectionTypeOne``GSMGeom`@`CATHybridShape.feat` #startup {
+			specobject `Axis` #in
+			component `RoadSectionType` #in
+			component `P1_H` #in
+			component `P1_V` #in
+			component `P2_H` #in
+			component `P2_V` #in
+			component `P3_H` #in
+			component `P3_V` #in
+			component `P4_H` #in
+			component `P4_V` #in
+			component `P5_H` #in
+			component `P5_V` #in
+			component `P6_H` #in
+			component `P6_V` #in
+			component `P7_H` #in
+			component `P7_V` #in
+			specobject `Line1` #out
+			specobject `Line2` #out
+			specobject `Line3` #out
+			specobject `Line4` #out
+			specobject `Line5` #out
+			specobject `Line6` #out
+			specobject `Line7` #out
+			int `Desactive` #in
+		}		
+	}
+}

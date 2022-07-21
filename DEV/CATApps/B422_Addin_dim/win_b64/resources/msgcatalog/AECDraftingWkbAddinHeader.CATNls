@@ -1,0 +1,86 @@
+
+
+//----------------------------------------------------------------------------
+// 3DPART DESIGN
+//----------------------------------------------------------------------------
+
+AECDraftingWkbAddinHeader.CATDRWExportHdr.Title     = "Export Drawing";
+AECDraftingWkbAddinHeader.CATDRWExportHdr.Help      = "Export all drawings in Product";
+AECDraftingWkbAddinHeader.CATDRWExportHdr.ShortHelp = "Export all drawings in Product";
+AECDraftingWkbAddinHeader.CATDRWExportHdr.LongHelp  = "Export all the drawings in the product, Get all the sheets in the drawing,can choose PDF or DWG format to export.";
+
+
+AECDraftingWkbAddinHeader.CATAECAnnOnePointHdr.Title     = "Label(1 Point)";
+AECDraftingWkbAddinHeader.CATAECAnnOnePointHdr.Help      = "Select 1 point and instantiate the 2D component";
+AECDraftingWkbAddinHeader.CATAECAnnOnePointHdr.ShortHelp = "Select 1 point and instantiate the 2D component";
+AECDraftingWkbAddinHeader.CATAECAnnOnePointHdr.LongHelp  = "Select 1 point and instantiate the 2D component";
+
+AECDraftingWkbAddinHeader.CATAECAnnDimTwoPointHdr.Title     = "Dimention(TwoPoint)";
+AECDraftingWkbAddinHeader.CATAECAnnDimTwoPointHdr.Help      = "Dimention base on 2 points";
+AECDraftingWkbAddinHeader.CATAECAnnDimTwoPointHdr.ShortHelp = "Dimention base on 2 points";
+AECDraftingWkbAddinHeader.CATAECAnnDimTwoPointHdr.LongHelp  = "Select 2 points to generate dimension";
+
+AECDraftingWkbAddinHeader.CATAECAnnAngleTwoLineHdr.Title     = "Angle(2 Lines)";
+AECDraftingWkbAddinHeader.CATAECAnnAngleTwoLineHdr.Help      = "Select 2 Lines and then generate an angular dimension.";
+AECDraftingWkbAddinHeader.CATAECAnnAngleTwoLineHdr.ShortHelp = "Select 2 Lines and then generate an angular dimension.";
+AECDraftingWkbAddinHeader.CATAECAnnAngleTwoLineHdr.LongHelp  = "Select 2 Lines and then generate an angular dimension.";
+
+AECDraftingWkbAddinHeader.CATAECAnnAngleThreePointHdr.Title     = "Angle(3 Points)";
+AECDraftingWkbAddinHeader.CATAECAnnAngleThreePointHdr.Help      = "Select 3 points and then generate an angular dimension.";
+AECDraftingWkbAddinHeader.CATAECAnnAngleThreePointHdr.ShortHelp = "Select 3 points and then generate an angular dimension.";
+AECDraftingWkbAddinHeader.CATAECAnnAngleThreePointHdr.LongHelp  = "Select 3 points and then generate an angular dimension.";
+
+AECDraftingWkbAddinHeader.CATAECAnnRadiusHdr.Title     = "Radius";
+AECDraftingWkbAddinHeader.CATAECAnnRadiusHdr.Help      = "CATAECAnnRadius Set";
+AECDraftingWkbAddinHeader.CATAECAnnRadiusHdr.ShortHelp = "CATAECAnnRadius Set";
+AECDraftingWkbAddinHeader.CATAECAnnRadiusHdr.LongHelp  = "CATAECAnnRadius Set";
+
+AECDraftingWkbAddinHeader.CATAECAlignDimensionHdr.Title     = "Dimension Drafting";
+AECDraftingWkbAddinHeader.CATAECAlignDimensionHdr.Help      = "Dimension Drafting";
+AECDraftingWkbAddinHeader.CATAECAlignDimensionHdr.ShortHelp = "Dimension Drafting";
+AECDraftingWkbAddinHeader.CATAECAlignDimensionHdr.LongHelp  = "Dimension Drafting";
+
+AECDraftingWkbAddinHeader.CATDRWPositionHdr.Title     = "Drawing reference";
+AECDraftingWkbAddinHeader.CATDRWPositionHdr.Help      = "Base on axis system create 3 lines";
+AECDraftingWkbAddinHeader.CATDRWPositionHdr.ShortHelp = "Base on axis system create 3 lines";
+AECDraftingWkbAddinHeader.CATDRWPositionHdr.LongHelp  = "Base on axis system create 3 lines";
+
+AECDraftingWkbAddinHeader.CATDRWDimensionsHdr.Title     = "Dimensions";
+AECDraftingWkbAddinHeader.CATDRWDimensionsHdr.Help      = "Dimensions";
+AECDraftingWkbAddinHeader.CATDRWDimensionsHdr.ShortHelp = "Dimensions";
+AECDraftingWkbAddinHeader.CATDRWDimensionsHdr.LongHelp  = "Dimensions";
+
+AECDraftingWkbAddinHeader.CATDRWLinearDimensionHdr.Title     = "Instantiate 2D Component";
+AECDraftingWkbAddinHeader.CATDRWLinearDimensionHdr.Help      = "Instantiate 2D Component";
+AECDraftingWkbAddinHeader.CATDRWLinearDimensionHdr.ShortHelp = "Instantiate 2D Component";
+AECDraftingWkbAddinHeader.CATDRWLinearDimensionHdr.LongHelp  = "Instantiate 2D Component";
+
+AECDraftingWkbAddinHeader.CATDrwFromViewHdr.Title     = "Annotation Drawing";
+AECDraftingWkbAddinHeader.CATDrwFromViewHdr.Help      = "Annotation Drawing";
+AECDraftingWkbAddinHeader.CATDrwFromViewHdr.ShortHelp = "Annotation Drawing";
+AECDraftingWkbAddinHeader.CATDrwFromViewHdr.LongHelp  = "Annotation Drawing";
+
+AECDraftingWkbAddinHeader.CATDrwFromViewLayoutHdr.Title     = "Layout Drawing";
+AECDraftingWkbAddinHeader.CATDrwFromViewLayoutHdr.Help      = "Layout Drawing";
+AECDraftingWkbAddinHeader.CATDrwFromViewLayoutHdr.ShortHelp = "Layout Drawing";
+AECDraftingWkbAddinHeader.CATDrwFromViewLayoutHdr.LongHelp  = "Layout Drawing";
+
+AECDraftingWkbAddinHeader.CATDRWDimModifyHdr.Title     = "Modify Dimension";
+AECDraftingWkbAddinHeader.CATDRWDimModifyHdr.Help      = "Modify dimension content to custom text";
+AECDraftingWkbAddinHeader.CATDRWDimModifyHdr.ShortHelp = "Modify dimension content to custom text";
+AECDraftingWkbAddinHeader.CATDRWDimModifyHdr.LongHelp  = "Modify dimension content to custom text";
+
+AECDraftingWkbAddinHeader.CATDRWExportHdr.Title     = "Export Drawing";
+AECDraftingWkbAddinHeader.CATDRWExportHdr.Help      = "Export all drawings in Product";
+AECDraftingWkbAddinHeader.CATDRWExportHdr.ShortHelp = "Export all drawings in Product";
+AECDraftingWkbAddinHeader.CATDRWExportHdr.LongHelp  = "Export all the drawings in the product, Get all the sheets in the drawing,can choose PDF or DWG format to export.";
+
+AECDraftingWkbAddinHeader.CATDRWManagementHdr.Title     = "Sheet Title";
+AECDraftingWkbAddinHeader.CATDRWManagementHdr.Help      = "Sheet Title";
+AECDraftingWkbAddinHeader.CATDRWManagementHdr.ShortHelp = "Sheet Title";
+AECDraftingWkbAddinHeader.CATDRWManagementHdr.LongHelp  = "Sheet Title";
+
+AECDraftingWkbAddinHeader.CATExtractBoundaryHdr.Title        = "Extract Boundary";
+AECDraftingWkbAddinHeader.CATExtractBoundaryHdr.Help         = "Extract Boundary";
+AECDraftingWkbAddinHeader.CATExtractBoundaryHdr.ShortHelp    = "Extract Boundary";
+AECDraftingWkbAddinHeader.CATExtractBoundaryHdr.LongHelp     = "Extract Boundary";

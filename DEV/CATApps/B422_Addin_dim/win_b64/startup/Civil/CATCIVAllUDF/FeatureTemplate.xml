@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RoadMarking>
+	<Type Name = "RoadMarkUDF">
+		<Sign UDFName = "道路标线" ID ="prd-94417684-00016372" Version = "A.1"/>
+	</Type>
+	<Type Name = "LaneUDF">
+		<Sign UDFName = "道路横断面模板" ID ="prd-94417684-00018015" Version = "A.1"/>
+	</Type>
+	<Type Name = "RetainingWallUDF">
+		<Sign UDFName = "挡墙" ID ="prd-94417684-00018038" Version = "A.1"/>
+	</Type>
+	<Type Name = "SubgradeProtectionUDF">
+		<Sign UDFName = "用户特征1" ID ="prd-94417684-00018016" Version = "A.1"/>
+	</Type>
+	<Type Name = "LevelCrossingUDF">
+		<Sign UDFName = "平交口" ID ="prd-94417684-00018017" Version = "A.1"/>
+	</Type>
+</RoadMarking>

@@ -1,0 +1,9 @@
+Title = "[~CATDRWPrtDimLineDlg,Title~ Lîné Dimsiøn Definition]";
+Frame1.Title = "[~CATDRWPrtDimLineDlg,Frame1.Title~ Sétüp]";
+Frame1.Label1.Title = "[~CATDRWPrtDimLineDlg,Frame1.Label1.Title~ Lîné Set     ]";
+Frame1.RadioButton1.Title = "[~CATDRWPrtDimLineDlg,Frame1.RadioButton1.Title~ GS]";
+Frame2.Title = "[~CATDRWPrtDimLineDlg,Frame2.Title~ UDF Sétüp]";
+Frame2.Label4.Title = "[~CATDRWPrtDimLineDlg,Frame2.Label4.Title~ Vérsîøn]";
+Frame2.Label2.Title = "[~CATDRWPrtDimLineDlg,Frame2.Label2.Title~ Pårt Namé]";
+Frame2.Label3.Title = "[~CATDRWPrtDimLineDlg,Frame2.Label3.Title~ UDF Nåmé]";
+Frame1.RadioButton2.Title = "[~CATDRWPrtDimLineDlg,Frame1.RadioButton2.Title~ OGS]";

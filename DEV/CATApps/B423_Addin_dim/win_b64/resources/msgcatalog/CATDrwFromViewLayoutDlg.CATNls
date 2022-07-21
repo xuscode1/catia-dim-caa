@@ -1,0 +1,15 @@
+<meta charset="UTF-8"/>
+
+Title = "Layout Drawing";
+Frame1.Title = "Setup";
+Frame1.Label1.Title = "Select Drawing : ";
+Frame1.Label2.Title = "Select Plane : ";
+Frame1.Label3.Title = " View Mode : ";
+Frame1.CheckButton1.Title = " Projection View ";
+Frame1.Label4.Title = " View Mode : ";
+Frame1.Label5.Title = " View Mode : ";
+Frame1.CheckButton2.Title = " Section View ";
+Frame1.CheckButton3.Title = " Section Cut";
+Frame1.Label6.Title = " View Name : ";
+Frame1.Label7.Title = " View Name : ";
+Frame1.Label8.Title = " View Name : ";

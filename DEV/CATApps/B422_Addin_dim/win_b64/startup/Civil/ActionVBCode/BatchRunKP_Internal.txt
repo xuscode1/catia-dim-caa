@@ -1,0 +1,30 @@
+
+Dim part As part
+Set part = CATIA.ActiveEditor.ActiveObject
+
+On Error Resume Next
+Dim list  As ListParameter
+Set list = part.Parameters.Item("KP_LIST")
+CATIA.ActiveEditor.Selection.Clear
+CATIA.ActiveEditor.Selection.Add list
+CATIA.ActiveEditor.Selection.Delete
+
+Dim KPColl As ListParameter
+Set KPColl = part.Parameters.CreateList("KP_LIST")
+
+CATIA.ActiveEditor.Selection.Clear
+CATIA.ActiveEditor.Selection.Search "CATKnowledgeSearch.KnowledgePattern,all"
+
+For loopNum = 1 To CATIA.ActiveEditor.Selection.Count
+    KPColl.ValueList.Add CATIA.ActiveEditor.Selection.Item(loopNum).Value
+Next
+
+For loopNum = 1 To KPColl.ValueList.Count
+    CATIA.ActiveEditor.Selection.Clear
+    CATIA.ActiveEditor.Selection.Add KPColl.ValueList.Item(loopNum)
+    'CATIA.StartCommand ("Execute")
+    CATIA.StartCommand ("执行和升级")
+
+Next
+
+End Sub

@@ -1,0 +1,38 @@
+!----------------------------------------------------------
+!   DASSAULT SYSTEMES  -  ENVIRONMENT FILE
+!----------------------------------------------------------
+! MODE : Global
+! PRODUCT LINE : COMMON
+! TMSTMP : 1658209818
+! ARGS : 
+! MARKETING VERSION : 
+!----------------------------------------------------------
+
+CATInstallPath=%CAT_CODE_1%\win_b64
+CATDLLPath=%CAT_CODE_1%\win_b64\code\bin
+CATICPath=%CAT_CODE_1%\win_b64\code\productIC
+CATCommandPath=%CAT_CODE_1%\win_b64\code\command
+CATDictionaryPath=%CAT_CODE_1%\win_b64\code\dictionary
+CATReffilesPath=%CAT_CODE_1%\win_b64\reffiles
+CATFontPath=%CAT_CODE_1%\win_b64\resources\fonts
+CATGalaxyPath=%CAT_CODE_1%\win_b64\resources\galaxy
+CATGraphicPath=%CAT_CODE_1%\win_b64\resources\AppDescription;%CAT_CODE_1%\win_b64\resources\graphic;%CAT_CODE_1%\win_b64\resources\graphic\icons;%CAT_CODE_1%\win_b64\resources\graphic\figures;%CAT_CODE_1%\win_b64\resources\graphic\splashscreens;%CAT_CODE_1%\win_b64\resources\graphic\symbols;%CAT_CODE_1%\win_b64\resources\graphic\textures
+CATMsgCatalogPath=%CAT_CODE_1%\win_b64\resources\msgcatalog
+CATFeatureCatalogPath=%CAT_CODE_1%\win_b64\resources\featurecatalog
+CATDefaultCollectionStandard=%CAT_CODE_1%\win_b64\resources\standard
+CATKnowledgePath=%CAT_CODE_1%\win_b64\resources\knowledge
+CATStartupPath=%CAT_CODE_1%\win_b64\startup
+CATW3ResourcesPath=%CAT_CODE_1%\win_b64\docs
+CATReconcilePath=
+CATReferenceSettingPath=%CAT_CODE_1%\win_b64\startup\Settings
+CATUserSettingPath=CSIDL_APPDATA\DassaultSystemes\CATSettings\DSKEY_RELEASE_LEVEL\RADE
+CATCollectionStandard=
+CATTemp=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATTemp
+CATErrorLog=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATTemp\error.log
+CATReport=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATReport
+CATDisciplinePath=
+USER_HOME=CSIDL_PERSONAL
+JAVA_HOME=%JAVA_HOME%
+CLASSPATH_JDBC=
+CLASSPATH=%CLASSPATH_JDBC%;%CLASSPATH%
+PATH=%CAT_CODE_1%\win_b64\code\bin;%CAT_CODE_1%\win_b64\code\command;%JAVA_HOME%\bin;%PATH%

@@ -1,0 +1,6 @@
+Title = "[十CATAECAnnOnePointDlg,Title十一構ソチ－CATAECAnnOnePointDlg]";
+Frame1.Title = "[十CATAECAnnOnePointDlg,Frame1.Title十一構ソチ－Frame1]";
+Frame1.Label4.Title = "[十CATAECAnnOnePointDlg,Frame1.Label4.Title十一構ソチ－ Value : ]";
+Frame1.Label2.Title = "[十CATAECAnnOnePointDlg,Frame1.Label2.Title十一構ソチ－ Name : ]";
+Frame1.Label3.Title = "[十CATAECAnnOnePointDlg,Frame1.Label3.Title十一構ソチ－ Component Name : ]";
+Frame1.Label1.Title = "[十CATAECAnnOnePointDlg,Frame1.Label1.Title十一構ソチ－ Select Point : ]";

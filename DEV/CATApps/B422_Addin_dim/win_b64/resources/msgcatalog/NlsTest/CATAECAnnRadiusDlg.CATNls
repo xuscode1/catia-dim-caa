@@ -1,0 +1,5 @@
+Title = "[~CATAECAnnRadiusDlg,Title~ CATAECAnnRådîüsDlg]";
+Frame1.Title = "[~CATAECAnnRadiusDlg,Frame1.Title~ Fråmé1]";
+Frame1.Label4.Title = "[~CATAECAnnRadiusDlg,Frame1.Label4.Title~ Vålüé : ]";
+Frame1.Label2.Title = "[~CATAECAnnRadiusDlg,Frame1.Label2.Title~  Nåmé : ]";
+Frame1.Label1.Title = "[~CATAECAnnRadiusDlg,Frame1.Label1.Title~  Sélect Rådîüs : ]";

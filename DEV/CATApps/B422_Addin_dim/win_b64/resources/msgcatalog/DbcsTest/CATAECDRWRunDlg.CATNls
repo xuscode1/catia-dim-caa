@@ -1,0 +1,16 @@
+Title = "[十CATAECDRWRunDlg,Title十一構ソチ－Smart Drawing]";
+NoSelect.Title = "[十CATAECDRWRunDlg,NoSelect.Title十一構ソチ－Error]";
+Frame2.CheckButton3.Title = "[十CATAECDRWRunDlg,Frame2.CheckButton3.Title十一構ソチ－text]";
+Frame1.Title = "[十CATAECDRWRunDlg,Frame1.Title十一構ソチ－Frame1]";
+Frame2.CheckButton2.Title = "[十CATAECDRWRunDlg,Frame2.CheckButton2.Title十一構ソチ－2D Component]";
+Frame1.Label3.Title = "[十CATAECDRWRunDlg,Frame1.Label3.Title十一構ソチ－ Annotation Mode : ]";
+OpenError.Text = "[十CATAECDRWRunDlg,OpenError.Text十一構ソチ－open failed]";
+Frame2.Title = "[十CATAECDRWRunDlg,Frame2.Title十一構ソチ－Frame2]";
+OpenError.Title = "[十CATAECDRWRunDlg,OpenError.Title十一構ソチ－Error]";
+Frame2.Label4.Title = "[十CATAECDRWRunDlg,Frame2.Label4.Title十一構ソチ－ Annotation 2D : ]";
+Frame2.Label5.Title = "[十CATAECDRWRunDlg,Frame2.Label5.Title十一構ソチ－ Annotation Text : ]";
+Frame2.Label2.Title = "[十CATAECDRWRunDlg,Frame2.Label2.Title十一構ソチ－ Drawing Version : ]";
+Frame2.Label1.Title = "[十CATAECDRWRunDlg,Frame2.Label1.Title十一構ソチ－ Drawing ID : ]";
+NoSelect.Text = "[十CATAECDRWRunDlg,NoSelect.Text十一構ソチ－No Selection,Please select a drawing template.]";
+Frame1.CheckButton1.Title = "[十CATAECDRWRunDlg,Frame1.CheckButton1.Title十一構ソチ－Generate all dimension]";
+Frame2.PushButton1.Title = "[十CATAECDRWRunDlg,Frame2.PushButton1.Title十一構ソチ－PushButton1]";

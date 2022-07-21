@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FeatureTemplate>
+	<!--Title 只是识别，暂时不需要读取     -->
+	<!-- Description 是会显示在界面上的-->
+	<!-- Picture 是显示在界面上的图片 -->
+  <!--Type="UDF"-->
+  <!--Type="PowerCopy"-->
+
+  <!--道路-->
+  <TemplateFeature Title="线路平面曲线段"	PartName="3sh-44525640-00005877"	Vision="A"	UDFName="Alignment_Clothoid"  Type="UDF" Description="线路平面曲线段"  Picture="AA.bmp"   />
+  <TemplateFeature Title="道路横断面模板"	PartName="3sh-44525640-00005991"	Vision="A"	UDFName="道路横断面模板"  Type="UDF" Description="描述这个功能的作用"  Picture="AA.bmp"  />	
+	<TemplateFeature Title="路口标线"	PartName="3sh-44525640-00008287"	Vision="A"	UDFName="路口标线"  Type="UDF" Description="创建路口标线曲面"  Picture="AA.bmp"  />
+  <!-- 护坡 -->
+ 	<TemplateFeature Title="放坡"	PartName="3sh-44525640-00005836"	Vision="A"	UDFName="放坡"  Type="UDF" Description="放坡"  Picture="AA.bmp"  />
+ 
+  <!-- 平交口 -->
+  <TemplateFeature Title="平交口"	PartName="3sh-44525640-00008286"	Vision="A"	UDFName="平交口"  Type="UDF" Description="创建平交口特征曲面，（路面1，路1中线，路1边线，路面2，路2中线，路2边线"  Picture="AA.bmp"  />
+  <!-- <TemplateFeature Title="平交口2"	PartName="3sh-44525640-00005947"	Vision="A"	UDFName="平交口2"  Type="UDF" Description="平交口2"  Picture="AA.bmp"  /> -->
+   
+  <!--桥梁元素-->
+  
+  <TemplateFeature Title="BEAM_L"	PartName="3sh-44525640-00005718"	Vision="A"	UDFName="BEAM_L"  Type="UDF" Description="BEAM_L"  Picture="AA.bmp"  />
+  <TemplateFeature Title="40米箱梁"	PartName="3sh-44525640-00006030"	Vision="A"	UDFName="40米箱梁"  Type="PowerCopy" Description="40米箱梁,输入条件为一个轴系，从小里程开始"  Picture="AA.bmp"  />
+  <TemplateFeature Title="连续梁中墩"	PartName="3sh-44525640-00006066"	Vision="A"	UDFName="连续梁中墩"  Type="UDF" Description="连续梁中墩"  Picture="AA.bmp"  />
+  <TemplateFeature Title="0号桥台"	PartName="3sh-44525640-00005997"	Vision="A"	UDFName="0号桥台"  Type="PowerCopy" Description="0号桥台"  Picture="Brd_No0_Abutment.bmp"  />
+  <TemplateFeature Title="51号桥台"	PartName="3sh-44525640-00005888"	Vision="A"	UDFName="51号桥台"  Type="PowerCopy" Description="51号桥台"  Picture="Brd_No51_Abutment.bmp"  />
+  <TemplateFeature Title="河道外中墩"	PartName="3sh-44525640-00005843"	Vision="A"	UDFName="河道外中墩"  Type="PowerCopy" Description="河道外中墩"  Picture="AA.bmp"  />
+  <TemplateFeature Title="河道内中墩"	PartName="3sh-44525640-00005833"	Vision="A"	UDFName="河道内中墩"  Type="PowerCopy" Description="河道内中墩"  Picture="AA.bmp"  />
+  <TemplateFeature Title="钢混分连墩"	PartName="3sh-44525640-00005857"	Vision="A"	UDFName="钢混分连墩"  Type="PowerCopy" Description="钢混分连墩"  Picture="AA.bmp"  />
+  <TemplateFeature Title="L形分联墩"	PartName="3sh-44525640-00006040"	Vision="A"	UDFName="L形分联墩"  Type="PowerCopy" Description="L形分联墩"  Picture="AA.bmp"  />
+
+  <!--附属-->
+  <TemplateFeature Title="挡墙"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="挡墙"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  
+  <!--附属-->
+  <TemplateFeature Title="起点轴系"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="起点轴系"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="终点轴系"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="终点轴系"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="左侧中央隔离带曲面"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="左侧中央隔离带曲面"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="左侧机动车道曲面"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="左侧机动车道曲面"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="左侧机非隔离带曲面"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="左侧机非隔离带曲面"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="左侧非机动车曲面"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="左侧非机动车曲面"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="左侧人行步道曲面"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="左侧人行步道曲面"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="左侧土路肩曲面"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="左侧土路肩曲面"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="右侧中央隔离带"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="右侧中央隔离带"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="右侧机动车道曲面"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="右侧机动车道曲面"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="右侧机非隔离带曲面"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="右侧机非隔离带曲面"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="右侧非机动车道曲面"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="右侧非机动车道曲面"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="右侧人行步道曲面"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="右侧人行步道曲面"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="隔离带实体"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="隔离带实体"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="路面实体"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="路面实体"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  <TemplateFeature Title="右侧土路肩曲面"	PartName="3sh-44525640-00006026"	Vision="A"	UDFName="右侧土路肩曲面"  Type="UDF" Description="挡墙"  Picture="AA.bmp"  />
+  
+  <!--道路标识-->
+  <TemplateFeature Title="路口标线"	PartName="3sh-44525640-00006141"	Vision="A"	UDFName="路口标线"  Type="UDF" Description="路口标线"  Picture="AA.bmp"  />
+  <TemplateFeature Title="道路标线"	PartName="3sh-44525640-00006059"	Vision="A"	UDFName="道路标线"  Type="UDF" Description="道路标线"  Picture="AA.bmp"  />
+
+</FeatureTemplate>

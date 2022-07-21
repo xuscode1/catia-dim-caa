@@ -1,0 +1,28 @@
+obj1,obj2
+' Insert the code of your main procedure here
+    Dim a As Reference
+    Dim b As Reference
+    Set a =obj1
+    Set b =obj2
+    Dim part As part
+    Set part = CATIA.ActiveEditor.ActiveObject
+    Dim len1  As Double
+    len1 = GetDistance(a, b)
+    MsgBox CStr(len1)
+End Sub
+Function GetDistance(ByVal obj1 As AnyObject, ByVal obj2 As AnyObject) As Double
+    Dim a(0)
+    Dim b(0)
+    Set a(0) = obj1
+    Set b(0) = obj2
+    'Dim theMeasureService As MeasureService
+    Set theMeasureService = CATIA.ActiveEditor.GetService("MeasureService")
+    Dim theMeasureBetween As MeasureBetween
+    Set theMeasureBetween = theMeasureService.GetMeasureBetween(a, b)
+    theMeasureBetween.Compute 
+    Dim result As Double
+    result = theMeasureBetween.GetDistance()
+    GetDistance = result
+End Function
+' You can add procedures or functions here (with Sub...End Sub or Function...End Function structures)
+' and call them from your main

@@ -1,0 +1,3 @@
+object
+'msgbox TypeName(CATIA.ActiveEditor.Selection.Item(1).Value)
+msgbox TypeName(object)

@@ -1,0 +1,14 @@
+<meta charset="UTF-8"/>
+Title = "角度标注";
+Frame1.Title = "设置";
+Frame1.Label1.Title = " 名称 ";
+Frame1.Label2.Title = " 值 ";
+Frame1.Label3.Title = " 线 1 ";
+Frame1.Label4.Title = " 线 2 ";
+
+msg.Title = "错误";
+msg.Text = "获取特征信息失败！";
+msg1.Title = "提示";
+msg1.Text = "特征所有输入不得为空！";
+msg2.Title = "错误";
+msg2.Text = "修改特征错误！";

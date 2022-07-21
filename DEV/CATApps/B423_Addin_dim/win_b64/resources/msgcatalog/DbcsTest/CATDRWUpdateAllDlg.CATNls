@@ -1,0 +1,10 @@
+Title = "[十CATDRWUpdateAllDlg,Title十一構ソチ－Drawing Update]";
+msg1.Title = "[十CATDRWUpdateAllDlg,msg1.Title十一構ソチ－Warning]";
+Label4.Title = "[十CATDRWUpdateAllDlg,Label4.Title十一構ソチ－ Select Product : ]";
+msg2.Title = "[十CATDRWUpdateAllDlg,msg2.Title十一構ソチ－Warning]";
+msg3.Title = "[十CATDRWUpdateAllDlg,msg3.Title十一構ソチ－Warning]";
+msg.Title = "[十CATDRWUpdateAllDlg,msg.Title十一構ソチ－Warning]";
+msg1.Text = "[十CATDRWUpdateAllDlg,msg1.Text十一構ソチ－No files]";
+msg.Text = "[十CATDRWUpdateAllDlg,msg.Text十一構ソチ－The input can not be empty!]";
+msg2.Text = "[十CATDRWUpdateAllDlg,msg2.Text十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十十一構ソチ－Error,Please make sure the object you select is a PRODUCT,This subset of the product contains many 3DPart and Drawing!]";
+msg3.Text = "[十CATDRWUpdateAllDlg,msg3.Text十一構ソチ－Wirte error!]";

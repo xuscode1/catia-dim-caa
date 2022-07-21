@@ -1,0 +1,25 @@
+
+CATCivil3DModelingWorkbench.Category    = "Infrastructure"; 
+
+// Icons for the Welcome window 64x64
+CATCivil3DModelingWorkbench.Icon.NormalPnl      = "CATCE3D_AP_AppIcon";
+CATCivil3DModelingWorkbench.Icon.PressedPnl = "IP_WkAsDataExchangeControl";
+CATCivil3DModelingWorkbench.Icon.FocusPnl = "IF_WkAsDataExchangeControl";
+
+// Icons for the Start menu 32x32
+CATCivil3DModelingWorkbench.Icon.NormalCtx      = "I_WkNvDataExchangeControl";
+CATCivil3DModelingWorkbench.Icon.PressedCtx = "IP_WkNvDataExchangeControl";
+CATCivil3DModelingWorkbench.Icon.FocusCtx = "IF_WkNvDataExchangeControl";
+
+// Icons for the workbench toolbar 24x24 
+CATCivil3DModelingWorkbench.Icon.NormalRep     = "CATDF1_AP_AppIcon24";
+CATCivil3DModelingWorkbench.Icon.PressedRep = "IP_WkDataExchangeControl";
+CATCivil3DModelingWorkbench.Icon.FocusRep = "IF_WkDataExchangeControl";
+
+
+CATCivil3DModelingWorkbench.CATV6TrainDlgHdr.Icon.Normal="CATDIS_AP_AppIcon";
+CATCivil3DModelingWorkbench.CATV6TrainCreatePointHdr.Icon.Normal="CATDIS_AP_AppIcon";
+CATCivil3DModelingWorkbench.CATV6TrainPointWidgetHdr.Icon.Normal="CATDIS_AP_AppIcon";
+
+// 3D Experience platform integration in WEST quadrant
+CATCivil3DModelingWorkbench.Brand = "CATIA";

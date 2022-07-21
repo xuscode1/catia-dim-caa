@@ -1,0 +1,16 @@
+Title = "[~CATAECDRWRunDlg,Title~ Smårt Drawîng]";
+NoSelect.Title = "[~CATAECDRWRunDlg,NoSelect.Title~ Errør]";
+Frame2.CheckButton3.Title = "[~CATAECDRWRunDlg,Frame2.CheckButton3.Title~ téxt]";
+Frame1.Title = "[~CATAECDRWRunDlg,Frame1.Title~ Fråmé1]";
+Frame2.CheckButton2.Title = "[~CATAECDRWRunDlg,Frame2.CheckButton2.Title~ 2D Cømponént]";
+Frame1.Label3.Title = "[~CATAECDRWRunDlg,Frame1.Label3.Title~  Annøtåtîon Modé : ]";
+OpenError.Text = "[~CATAECDRWRunDlg,OpenError.Text~ øpén fåîled]";
+Frame2.Title = "[~CATAECDRWRunDlg,Frame2.Title~ Fråmé2]";
+OpenError.Title = "[~CATAECDRWRunDlg,OpenError.Title~ Errør]";
+Frame2.Label4.Title = "[~CATAECDRWRunDlg,Frame2.Label4.Title~  Annøtåtîon 2D : ]";
+Frame2.Label5.Title = "[~CATAECDRWRunDlg,Frame2.Label5.Title~  Annøtåtîon Téxt : ]";
+Frame2.Label2.Title = "[~CATAECDRWRunDlg,Frame2.Label2.Title~  Dråwîng Vérsiøn : ]";
+Frame2.Label1.Title = "[~CATAECDRWRunDlg,Frame2.Label1.Title~  Dråwîng ID : ]";
+NoSelect.Text = "[~CATAECDRWRunDlg,NoSelect.Text~ Nø Sélectîon,Pleåse select a drawing template.]";
+Frame1.CheckButton1.Title = "[~CATAECDRWRunDlg,Frame1.CheckButton1.Title~ Géneråte all dîmensiøn]";
+Frame2.PushButton1.Title = "[~CATAECDRWRunDlg,Frame2.PushButton1.Title~ PüshButtøn1]";

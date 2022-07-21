@@ -1,0 +1,7 @@
+Title = "CATAECAnnAngleThreePointDlg";
+Frame1.Title = "Frame1";
+Frame1.Label1.Title = " Name : ";
+Frame1.Label2.Title = " Value : ";
+Frame1.Label3.Title = " Select Point1 : ";
+Frame1.Label4.Title = " Select Point2 : ";
+Frame1.Label5.Title = " Select Point3 : ";

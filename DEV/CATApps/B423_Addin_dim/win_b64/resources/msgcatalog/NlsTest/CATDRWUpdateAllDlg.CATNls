@@ -1,0 +1,10 @@
+Title = "[~CATDRWUpdateAllDlg,Title~ Dråwîng Updaté]";
+msg1.Title = "[~CATDRWUpdateAllDlg,msg1.Title~ Wårnîng]";
+Label4.Title = "[~CATDRWUpdateAllDlg,Label4.Title~  Sélect Prødüct : ]";
+msg2.Title = "[~CATDRWUpdateAllDlg,msg2.Title~ Wårnîng]";
+msg3.Title = "[~CATDRWUpdateAllDlg,msg3.Title~ Wårnîng]";
+msg.Title = "[~CATDRWUpdateAllDlg,msg.Title~ Wårnîng]";
+msg1.Text = "[~CATDRWUpdateAllDlg,msg1.Text~ Nø fîlés]";
+msg.Text = "[~CATDRWUpdateAllDlg,msg.Text~ Thé înpüt cån nøt be empty!]";
+msg2.Text = "[~CATDRWUpdateAllDlg,msg2.Text~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Errør,Pléåse make süre the object you select îs a PRODUCT,This subset of the product contains many 3DPart and Drawing!]";
+msg3.Text = "[~CATDRWUpdateAllDlg,msg3.Text~ Wîrté errør!]";

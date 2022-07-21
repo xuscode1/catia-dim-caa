@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+CATAECAnnAngleThreePointCmd.SelectOnePoint.Message="单点";
+CATAECAnnAngleThreePointCmd.SelectTwoPoint.Message="两点";
+CATAECAnnAngleThreePointCmd.SelectThreePoint.Message="选择三点";
+CATAECAnnAngleThreePointCmd.InputName.Message="输入名称";
+CATAECAnnAngleThreePointCmd.InputValue.Message="输入值";

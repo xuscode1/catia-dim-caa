@@ -1,0 +1,5 @@
+Title = "Drawing Reference ";
+Frame1.Title = "Setup";
+Frame1.Label1.Title = " Select Axis : ";
+Frame1.Label2.Title = " Length(m) : ";
+Frame1.Label3.Title = "RGB Color : ";

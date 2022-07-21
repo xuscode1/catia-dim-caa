@@ -1,0 +1,6 @@
+Title = "[~CATAECAnnOnePointDlg,Title~ CATAECAnnOnéPøîntDlg]";
+Frame1.Title = "[~CATAECAnnOnePointDlg,Frame1.Title~ Fråmé1]";
+Frame1.Label4.Title = "[~CATAECAnnOnePointDlg,Frame1.Label4.Title~  Vålüé : ]";
+Frame1.Label2.Title = "[~CATAECAnnOnePointDlg,Frame1.Label2.Title~  Nåmé : ]";
+Frame1.Label3.Title = "[~CATAECAnnOnePointDlg,Frame1.Label3.Title~  Cømponént Nåme : ]";
+Frame1.Label1.Title = "[~CATAECAnnOnePointDlg,Frame1.Label1.Title~  Sélect Pøînt : ]";

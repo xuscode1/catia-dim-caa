@@ -1,0 +1,396 @@
+<meta charset="UTF-8"/>
+AEC3DModelingWkbAddinHeader.CATShapeDesignExtractSMultiCHdr.Title     = "Multiple Extract";
+AEC3DModelingWkbAddinHeader.CATShapeDesignExtractSMultiCHdr.Help      = "Extracts a groups of elements";
+AEC3DModelingWkbAddinHeader.CATShapeDesignExtractSMultiCHdr.ShortHelp = "Extracts a groups of elements";
+AEC3DModelingWkbAddinHeader.CATShapeDesignExtractSMultiCHdr.LongHelp  = "Extracts a groups of elements";
+
+AEC3DModelingWkbAddinHeader.CATSdwDevelopHdr.Title     = "Develop definition";
+AEC3DModelingWkbAddinHeader.CATSdwDevelopHdr.Help      = "Wire to develop";
+AEC3DModelingWkbAddinHeader.CATSdwDevelopHdr.ShortHelp = "Specifies the planar wire to be developed.";
+AEC3DModelingWkbAddinHeader.CATSdwDevelopHdr.LongHelp  = "Specifies the planar wire to be developed.";
+
+AEC3DModelingWkbAddinHeader.CATShapeDesignReflectLineHdr.Title     = "Reflect Line...";
+AEC3DModelingWkbAddinHeader.CATShapeDesignReflectLineHdr.Help      = "Creates a reflect line";
+AEC3DModelingWkbAddinHeader.CATShapeDesignReflectLineHdr.ShortHelp = "Creates a reflect line";
+AEC3DModelingWkbAddinHeader.CATShapeDesignReflectLineHdr.LongHelp  = "Creates a reflect line";
+
+AEC3DModelingWkbAddinHeader.CATShapeDesignSpineHdr.Title     = "Spine";
+AEC3DModelingWkbAddinHeader.CATShapeDesignSpineHdr.Help      = "Creates a spine";
+AEC3DModelingWkbAddinHeader.CATShapeDesignSpineHdr.ShortHelp = "Creates a spine";
+AEC3DModelingWkbAddinHeader.CATShapeDesignSpineHdr.LongHelp  = "Creates a spine";
+
+AEC3DModelingWkbAddinHeader.CATShapeDesignCurveEquations.Title     = "Curve From Equations";
+AEC3DModelingWkbAddinHeader.CATShapeDesignCurveEquations.Help      = "Curve From Equations";
+AEC3DModelingWkbAddinHeader.CATShapeDesignCurveEquations.ShortHelp = "Curve From Equations";
+AEC3DModelingWkbAddinHeader.CATShapeDesignCurveEquations.LongHelp  = "Curve From Equations";
+
+AEC3DModelingWkbAddinHeader.CATSdwIsoparamCrvHdr.Title     = "Create Isoparametric Curve";
+AEC3DModelingWkbAddinHeader.CATSdwIsoparamCrvHdr.Help      = "Create Isoparametric Curve";
+AEC3DModelingWkbAddinHeader.CATSdwIsoparamCrvHdr.ShortHelp = "Create Isoparametric Curve";
+AEC3DModelingWkbAddinHeader.CATSdwIsoparamCrvHdr.LongHelp  = "Create Isoparametric Curve";
+
+AEC3DModelingWkbAddinHeader.CATSketchOutputsHdr.Title     = "Sketch Outputs";
+AEC3DModelingWkbAddinHeader.CATSketchOutputsHdr.Help      = "Select sketches to create outputs";
+AEC3DModelingWkbAddinHeader.CATSketchOutputsHdr.ShortHelp = "Select sketches to create outputs";
+AEC3DModelingWkbAddinHeader.CATSketchOutputsHdr.LongHelp  = "Select sketches to create outputs";
+
+AEC3DModelingWkbAddinHeader.CATDRWExportHdr.Title     = "Export Drawing";
+AEC3DModelingWkbAddinHeader.CATDRWExportHdr.Help      = "Export all drawings in Product";
+AEC3DModelingWkbAddinHeader.CATDRWExportHdr.ShortHelp = "Export all drawings in Product";
+AEC3DModelingWkbAddinHeader.CATDRWExportHdr.LongHelp  = "Export all the drawings in the product, Get all the sheets in the drawing,can choose PDF or DWG format to export.";
+
+AEC3DModelingWkbAddinHeader.CATPrdRenameHdr.Title     = "Rename Tree";
+AEC3DModelingWkbAddinHeader.CATPrdRenameHdr.Help      = "Rename Tree";
+AEC3DModelingWkbAddinHeader.CATPrdRenameHdr.ShortHelp = "Rename Tree";
+AEC3DModelingWkbAddinHeader.CATPrdRenameHdr.LongHelp  = "Export all the drawings in the product, Get all the sheets in the drawing,can choose PDF or DWG format to export.";
+
+AEC3DModelingWkbAddinHeader.CATPRDUDFdataImportAndExportHdr.Title     = "UDF Data Synchronize";
+AEC3DModelingWkbAddinHeader.CATPRDUDFdataImportAndExportHdr.Help      = "Export all drawings in Product";
+AEC3DModelingWkbAddinHeader.CATPRDUDFdataImportAndExportHdr.ShortHelp = "Export all drawings in Product";
+AEC3DModelingWkbAddinHeader.CATPRDUDFdataImportAndExportHdr.LongHelp  = "Export all the drawings in the product, Get all the sheets in the drawing,can choose PDF or DWG format to export.";
+
+AEC3DModelingWkbAddinHeader.CATKPBatchrunHdr.Title     = "Batch Run Knowledge Pattern";
+AEC3DModelingWkbAddinHeader.CATKPBatchrunHdr.Help      = "Batch Run Knowledge Pattern";
+AEC3DModelingWkbAddinHeader.CATKPBatchrunHdr.ShortHelp = "Batch Run Knowledge Pattern";
+AEC3DModelingWkbAddinHeader.CATKPBatchrunHdr.LongHelp  = "Batch Run Knowledge Pattern.";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGGridHdr.Title     = "Grid Set";
+AEC3DModelingWkbAddinHeader.CATAECBDGGridHdr.Help      = "Create building grid";
+AEC3DModelingWkbAddinHeader.CATAECBDGGridHdr.ShortHelp = "Create building grid";
+AEC3DModelingWkbAddinHeader.CATAECBDGGridHdr.LongHelp  = "Create building grid";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGGridFeatureHdr.Title     = "Grid";
+AEC3DModelingWkbAddinHeader.CATAECBDGGridFeatureHdr.Help      = "Create building grid";
+AEC3DModelingWkbAddinHeader.CATAECBDGGridFeatureHdr.ShortHelp = "Create building grid";
+AEC3DModelingWkbAddinHeader.CATAECBDGGridFeatureHdr.LongHelp  = "Create building grid";
+
+AEC3DModelingWkbAddinHeader.CATAECAnnOnePointHdr.Title     = "Label(1 Point)";
+AEC3DModelingWkbAddinHeader.CATAECAnnOnePointHdr.Help      = "Select 1 point and instantiate the 2D component";
+AEC3DModelingWkbAddinHeader.CATAECAnnOnePointHdr.ShortHelp = "Select 1 point and instantiate the 2D component";
+AEC3DModelingWkbAddinHeader.CATAECAnnOnePointHdr.LongHelp  = "Select 1 point and instantiate the 2D component";
+
+AEC3DModelingWkbAddinHeader.CATAECAnnDimTwoPointHdr.Title     = "Dimention(TwoPoint)";
+AEC3DModelingWkbAddinHeader.CATAECAnnDimTwoPointHdr.Help      = "Dimention base on 2 points";
+AEC3DModelingWkbAddinHeader.CATAECAnnDimTwoPointHdr.ShortHelp = "Dimention base on 2 points";
+AEC3DModelingWkbAddinHeader.CATAECAnnDimTwoPointHdr.LongHelp  = "Select 2 points to generate dimension";
+
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleTwoLineHdr.Title     = "Angle(2 Lines)";
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleTwoLineHdr.Help      = "Select 2 Lines and then generate an angular dimension.";
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleTwoLineHdr.ShortHelp = "Select 2 Lines and then generate an angular dimension.";
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleTwoLineHdr.LongHelp  = "Select 2 Lines and then generate an angular dimension.";
+
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleThreePointHdr.Title     = "Angle(3 Points)";
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleThreePointHdr.Help      = "Select 3 points and then generate an angular dimension.";
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleThreePointHdr.ShortHelp = "Select 3 points and then generate an angular dimension.";
+AEC3DModelingWkbAddinHeader.CATAECAnnAngleThreePointHdr.LongHelp  = "Select 3 points and then generate an angular dimension.";
+
+AEC3DModelingWkbAddinHeader.CATAECAnnRadiusHdr.Title     = "Radius";
+AEC3DModelingWkbAddinHeader.CATAECAnnRadiusHdr.Help      = "CATAECAnnRadius Set";
+AEC3DModelingWkbAddinHeader.CATAECAnnRadiusHdr.ShortHelp = "CATAECAnnRadius Set";
+AEC3DModelingWkbAddinHeader.CATAECAnnRadiusHdr.LongHelp  = "CATAECAnnRadius Set";
+
+AEC3DModelingWkbAddinHeader.CATDRWPositionHdr.Title     = "Drawing reference";
+AEC3DModelingWkbAddinHeader.CATDRWPositionHdr.Help      = "Base on axis system create 3 lines";
+AEC3DModelingWkbAddinHeader.CATDRWPositionHdr.ShortHelp = "Base on axis system create 3 lines";
+AEC3DModelingWkbAddinHeader.CATDRWPositionHdr.LongHelp  = "Base on axis system create 3 lines";
+
+AEC3DModelingWkbAddinHeader.CATAECCreateAxisFromExcelHdr.Title     = "Stationing Axis";
+AEC3DModelingWkbAddinHeader.CATAECCreateAxisFromExcelHdr.ShortHelp = "Create a Axis Systems Sets from an excel Data";
+AEC3DModelingWkbAddinHeader.CATAECCreateAxisFromExcelHdr.LongHelp  = "It reads distance and stationing,Please make sure these two headers are not modified,The excel file is located in the <installation directory>\win_b64\startup\Civil\CATAEC3DModelingData\Create Axis From Excel.xlsx ";
+
+AEC3DModelingWkbAddinHeader.CATAECAlignmentUnfoldHdr.Title     = "Alignment Unfold";
+AEC3DModelingWkbAddinHeader.CATAECAlignmentUnfoldHdr.ShortHelp = "Create a 3D road centerline by Unfold command";
+AEC3DModelingWkbAddinHeader.CATAECAlignmentUnfoldHdr.LongHelp  = "Step 1: Specify a Axis system; Step 2: Select a Horizontal curve, preferably specify an integer starting point to be placed at the origin of the Axis system; Step 3: Select the vertical curve on the ZX plane, and then generate the road center line. If you need to modify the data, Please modify the expansion feature of the specification tree after the creation is complete.";
+
+AEC3DModelingWkbAddinHeader.CATFeatureExportDataHdr.Title     = "UDF Data Export";
+AEC3DModelingWkbAddinHeader.CATFeatureExportDataHdr.ShortHelp = "Export UDF Data to an excel file";
+AEC3DModelingWkbAddinHeader.CATFeatureExportDataHdr.LongHelp  = "Set the header number, read the header, and export the UDF data to Excel. Please refer the template of the following path, <installation directory>\win_b64\startup\Civil\CATUDFExportData\CATUDFExportDataTemplate.xlsx";
+
+AEC3DModelingWkbAddinHeader.CATFeatureImportDataHdr.Title     = "UDF Data Import";
+AEC3DModelingWkbAddinHeader.CATFeatureImportDataHdr.ShortHelp = "Import UDF Data to an excel file";
+AEC3DModelingWkbAddinHeader.CATFeatureImportDataHdr.LongHelp  = "Set the header number, read the header, and import the UDF data to Excel. Please refer the template of the following path, <installation directory>\win_b64\startup\Civil\CATUDFExportData\CATUDFExportDataTemplate.xlsx";
+
+AEC3DModelingWkbAddinHeader.CATFeatureExportAndImportDataHdr.Title     = "Synchronization UDF Parameter";
+AEC3DModelingWkbAddinHeader.CATFeatureExportAndImportDataHdr.ShortHelp = "Import or Export UDF Data to an excel file";
+AEC3DModelingWkbAddinHeader.CATFeatureExportAndImportDataHdr.LongHelp  = "Set the header number, read the header, and import or export the UDF data to Excel. Please refer the template of the following path, <installation directory>\win_b64\startup\Civil\CATUDFExportData\CATUDFExportDataTemplate.xlsx";
+
+AEC3DModelingWkbAddinHeader.CATAECCoordinateDataHdr.Title     = "Coordinate Export";
+AEC3DModelingWkbAddinHeader.CATAECCoordinateDataHdr.ShortHelp = "Export Coordinate Data to an excel file";
+AEC3DModelingWkbAddinHeader.CATAECCoordinateDataHdr.LongHelp  = "Export Coordinate Data to an excel file";
+
+AEC3DModelingWkbAddinHeader.CATAECAxisAngleDataHdr.Title     = "Axis Angle Export";
+AEC3DModelingWkbAddinHeader.CATAECAxisAngleDataHdr.ShortHelp = "Export Angle Data to an excel file";
+AEC3DModelingWkbAddinHeader.CATAECAxisAngleDataHdr.LongHelp  = "Export Angle Data to an excel file";
+
+AEC3DModelingWkbAddinHeader.CATAECRoadSurfaceHdr.Title     = "Road surface";
+AEC3DModelingWkbAddinHeader.CATAECRoadSurfaceHdr.ShortHelp = "Create a loft surface based on the axis systems";
+AEC3DModelingWkbAddinHeader.CATAECRoadSurfaceHdr.LongHelp  = "Please refer the template of the following path, <installation directory>\win_b64\startup\Civil\CATAECRoadSurfaceData\CATAECRoadSurfaceData.xlsx";
+
+AEC3DModelingWkbAddinHeader.CATAECRoadSurfaceDataHdr.Title     = "Road Surface Data";
+AEC3DModelingWkbAddinHeader.CATAECRoadSurfaceDataHdr.ShortHelp = "According to Excel data, Synchronize the model";
+AEC3DModelingWkbAddinHeader.CATAECRoadSurfaceDataHdr.LongHelp  = "According to Excel data, Synchronize the model";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGPierHeightHdr.Title     = "Pier Height";
+AEC3DModelingWkbAddinHeader.CATAECBDGPierHeightHdr.Help      = "Get Pier Data";
+AEC3DModelingWkbAddinHeader.CATAECBDGPierHeightHdr.ShortHelp = "Get pier data and rexport to excel file";
+AEC3DModelingWkbAddinHeader.CATAECBDGPierHeightHdr.LongHelp  = "Get pier data and rexport to excel file";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGPierWidthHdr.Title     = "Pier Width";
+AEC3DModelingWkbAddinHeader.CATAECBDGPierWidthHdr.Help      = "Get Pier Data";
+AEC3DModelingWkbAddinHeader.CATAECBDGPierWidthHdr.ShortHelp = "Get pier data and rexport to excel file";
+AEC3DModelingWkbAddinHeader.CATAECBDGPierWidthHdr.LongHelp  = "Get pier data and rexport to excel file";
+
+AEC3DModelingWkbAddinHeader.CATAECTerrainPtsHdr.Title     = "Terrain PointCloud";
+AEC3DModelingWkbAddinHeader.CATAECTerrainPtsHdr.Help      = "Terrain PointCloud";
+AEC3DModelingWkbAddinHeader.CATAECTerrainPtsHdr.ShortHelp = "Terrain PointCloud";
+AEC3DModelingWkbAddinHeader.CATAECTerrainPtsHdr.LongHelp  = "Terrain PointCloud";
+
+AEC3DModelingWkbAddinHeader.CATDRWDimensionsHdr.Title     = "Dimensions";
+AEC3DModelingWkbAddinHeader.CATDRWDimensionsHdr.Help      = "Dimensions";
+AEC3DModelingWkbAddinHeader.CATDRWDimensionsHdr.ShortHelp = "Dimensions";
+AEC3DModelingWkbAddinHeader.CATDRWDimensionsHdr.LongHelp  = "Dimensions";
+
+AEC3DModelingWkbAddinHeader.CATDRWLinearDimensionHdr.Title     = "Instantiate 2D Component";
+AEC3DModelingWkbAddinHeader.CATDRWLinearDimensionHdr.Help      = "Instantiate 2D Component";
+AEC3DModelingWkbAddinHeader.CATDRWLinearDimensionHdr.ShortHelp = "Instantiate 2D Component";
+AEC3DModelingWkbAddinHeader.CATDRWLinearDimensionHdr.LongHelp  = "Instantiate 2D Component";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGStoneCushionHdr.Title     = "Stone Cushion";
+AEC3DModelingWkbAddinHeader.CATAECBDGStoneCushionHdr.Help      = "Stone Cushion Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGStoneCushionHdr.ShortHelp = "Stone Cushion Short Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGStoneCushionHdr.LongHelp  = "Stone Cushion Long Help";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGBeamPlateDetailHdr.Title     = "Beam Detail";
+AEC3DModelingWkbAddinHeader.CATAECBDGBeamPlateDetailHdr.Help      = "Beam Detail Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGBeamPlateDetailHdr.ShortHelp = "Beam Detail Short Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGBeamPlateDetailHdr.LongHelp  = "Beam Detail Long Help";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGPrdPierMultiTypeHdr.Title     = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATAECBDGPrdPierMultiTypeHdr.Help      = "Instantiate Product Multi Pier Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGPrdPierMultiTypeHdr.ShortHelp = "Instantiate Product Multi Pier Short Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGPrdPierMultiTypeHdr.LongHelp  = "Instantiate Product Multi Pier Long Help";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGPrdPierHdr.Title     = "Instantiate Product Pier";
+AEC3DModelingWkbAddinHeader.CATAECBDGPrdPierHdr.Help      = "Instantiate Product Pier Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGPrdPierHdr.ShortHelp = "Instantiate Product Pier Short Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGPrdPierHdr.LongHelp  = "Instantiate Product Pier Long Help";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGSideBeamHdr.Title     = "Side Beam";
+AEC3DModelingWkbAddinHeader.CATAECBDGSideBeamHdr.Help      = "Side Beam Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGSideBeamHdr.ShortHelp = "Side Beam Short Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGSideBeamHdr.LongHelp  = "Side Beam Long Help";
+
+AEC3DModelingWkbAddinHeader.CATAECMidasStructureHdr.Title     = "Midas Structure";
+AEC3DModelingWkbAddinHeader.CATAECMidasStructureHdr.Help      = "Midas Structure Help";
+AEC3DModelingWkbAddinHeader.CATAECMidasStructureHdr.ShortHelp = "Midas Structure Short Help";
+AEC3DModelingWkbAddinHeader.CATAECMidasStructureHdr.LongHelp  = "Midas Structure Long Help";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGAbutmentHdr.Title     = "Abutment";
+AEC3DModelingWkbAddinHeader.CATAECBDGAbutmentHdr.Help      = "Abutment Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGAbutmentHdr.ShortHelp = "Abutment Short Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGAbutmentHdr.LongHelp  = "Abutment Long Help";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGBeamShapeHdr.Title     = "Span Shape";
+AEC3DModelingWkbAddinHeader.CATAECBDGBeamShapeHdr.Help      = "Span Shape Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGBeamShapeHdr.ShortHelp = "Span Shape Short Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGBeamShapeHdr.LongHelp  = "Span Shape Long Help";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGPlateBeamAveArrHdr.Title     = "Plate Beam Average arrangement";
+AEC3DModelingWkbAddinHeader.CATAECBDGPlateBeamAveArrHdr.Help      = "MyGlobal Command4 Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGPlateBeamAveArrHdr.ShortHelp = "MyGlobal Command4 Short Help";
+AEC3DModelingWkbAddinHeader.CATAECBDGPlateBeamAveArrHdr.LongHelp  = "MyGlobal Command4 Long Help";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGTypeCurveHdr.Title     = "Beam Type Definition";
+AEC3DModelingWkbAddinHeader.CATAECBDGTypeCurveHdr.Help      = "Beam Type";
+AEC3DModelingWkbAddinHeader.CATAECBDGTypeCurveHdr.ShortHelp = "Obtain intermediate curves through two axis systems and identify beam types on line segments from Excel data";
+AEC3DModelingWkbAddinHeader.CATAECBDGTypeCurveHdr.LongHelp  = "Please refer to the following path <installation directory>\win_b64startupCivilCATAECBDGTypeCurveCATAECBDGTypeCurve.xlsx";
+
+AEC3DModelingWkbAddinHeader.CATAECSectionHdr.Title     = "Section Definition";
+AEC3DModelingWkbAddinHeader.CATAECSectionHdr.Help      = "Beam Section Type";
+AEC3DModelingWkbAddinHeader.CATAECSectionHdr.ShortHelp = "Obtain intermediate curves through two axis systems and identify beam types on line segments from Excel data";
+AEC3DModelingWkbAddinHeader.CATAECSectionHdr.LongHelp  = "Please refer to the following path <installation directory>\win_b64startupCivilCATAECBDGTypeCurveCATAECBDGTypeCurve.xlsx";
+
+AEC3DModelingWkbAddinHeader.CATAECAlignmentHdr.Title     = "Transition Alignment";
+AEC3DModelingWkbAddinHeader.CATAECAlignmentHdr.Help      = "Transition Alignment";
+AEC3DModelingWkbAddinHeader.CATAECAlignmentHdr.ShortHelp = "Transition Alignment";
+AEC3DModelingWkbAddinHeader.CATAECAlignmentHdr.LongHelp  = "Transition Alignment";
+
+AEC3DModelingWkbAddinHeader.CATAECAlignmentVerHdr.Title     = "Alignment V Definition";
+AEC3DModelingWkbAddinHeader.CATAECAlignmentVerHdr.Help      = "Beam Section Type";
+AEC3DModelingWkbAddinHeader.CATAECAlignmentVerHdr.ShortHelp = "Obtain intermediate curves through two axis systems and identify beam types on line segments from Excel data";
+AEC3DModelingWkbAddinHeader.CATAECAlignmentVerHdr.LongHelp  = "Please refer to the following path <installation directory>\win_b64startupCivilCATAECBDGTypeCurveCATAECBDGTypeCurve.xlsx";
+
+AEC3DModelingWkbAddinHeader.CATAECAlignmentHorHdr.Title     = "Alignment H Definition";
+AEC3DModelingWkbAddinHeader.CATAECAlignmentHorHdr.Help      = "Beam Section Type";
+AEC3DModelingWkbAddinHeader.CATAECAlignmentHorHdr.ShortHelp = "Obtain intermediate curves through two axis systems and identify beam types on line segments from Excel data";
+AEC3DModelingWkbAddinHeader.CATAECAlignmentHorHdr.LongHelp  = "Please refer to the following path <installation directory>\win_b64startupCivilCATAECBDGTypeCurveCATAECBDGTypeCurve.xlsx";
+
+AEC3DModelingWkbAddinHeader.CATInstantiatePrdUDFT1Hdr.Title     = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATInstantiatePrdUDFT1Hdr.Help      = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATInstantiatePrdUDFT1Hdr.ShortHelp = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATInstantiatePrdUDFT1Hdr.LongHelp  = "Instantiate Product Multi Pier";
+
+AEC3DModelingWkbAddinHeader.CATInstantiatePrtUDFT1Hdr.Title     = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATInstantiatePrtUDFT1Hdr.Help      = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATInstantiatePrtUDFT1Hdr.ShortHelp = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATInstantiatePrtUDFT1Hdr.LongHelp  = "Instantiate Product Multi Pier";
+
+AEC3DModelingWkbAddinHeader.CATInstantiatePrtUDFT1Hdr.Title     = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATInstantiatePrtUDFT1Hdr.Help      = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATInstantiatePrtUDFT1Hdr.ShortHelp = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATInstantiatePrtUDFT1Hdr.LongHelp  = "Instantiate Product Multi Pier";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGGridHdr.Title     = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATAECBDGGridHdr.Help      = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATAECBDGGridHdr.ShortHelp = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATAECBDGGridHdr.LongHelp  = "Instantiate Product Multi Pier";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGGridFeatureHdr.Title     = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATAECBDGGridFeatureHdr.Help      = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATAECBDGGridFeatureHdr.ShortHelp = "Instantiate Product Multi Pier";
+AEC3DModelingWkbAddinHeader.CATAECBDGGridFeatureHdr.LongHelp  = "Instantiate Product Multi Pier";
+
+AEC3DModelingWkbAddinHeader.CATDrwFromViewHdr.Title     = "Annotation Drawing";
+AEC3DModelingWkbAddinHeader.CATDrwFromViewHdr.Help      = "Annotation Drawing";
+AEC3DModelingWkbAddinHeader.CATDrwFromViewHdr.ShortHelp = "Annotation Drawing";
+AEC3DModelingWkbAddinHeader.CATDrwFromViewHdr.LongHelp  = "Annotation Drawing";
+
+AEC3DModelingWkbAddinHeader.CATDrwFromViewLayoutHdr.Title     = "Layout Drawing";
+AEC3DModelingWkbAddinHeader.CATDrwFromViewLayoutHdr.Help      = "Layout Drawing";
+AEC3DModelingWkbAddinHeader.CATDrwFromViewLayoutHdr.ShortHelp = "Layout Drawing";
+AEC3DModelingWkbAddinHeader.CATDrwFromViewLayoutHdr.LongHelp  = "Layout Drawing";
+
+AEC3DModelingWkbAddinHeader.CATDRWDimModifyHdr.Title     = "Modify Dimension";
+AEC3DModelingWkbAddinHeader.CATDRWDimModifyHdr.Help      = "Modify dimension content to custom text";
+AEC3DModelingWkbAddinHeader.CATDRWDimModifyHdr.ShortHelp = "Modify dimension content to custom text";
+AEC3DModelingWkbAddinHeader.CATDRWDimModifyHdr.LongHelp  = "Modify dimension content to custom text";
+
+AEC3DModelingWkbAddinHeader.CATBRDSkeletonHdr.Title     = "Bridge Design Data";
+AEC3DModelingWkbAddinHeader.CATBRDSkeletonHdr.Help      = "Select input elements and then generate bridge data";
+AEC3DModelingWkbAddinHeader.CATBRDSkeletonHdr.ShortHelp = "Select input elements and then generate bridge data";
+AEC3DModelingWkbAddinHeader.CATBRDSkeletonHdr.LongHelp  = "Select input elements and then generate bridge data";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGPrdPierHdr.Title     = "Pier Data";
+AEC3DModelingWkbAddinHeader.CATAECBDGPrdPierHdr.Help      = "Pier Data";
+AEC3DModelingWkbAddinHeader.CATAECBDGPrdPierHdr.ShortHelp = "Pier Data";
+AEC3DModelingWkbAddinHeader.CATAECBDGPrdPierHdr.LongHelp  = "Pier Data.";
+
+AEC3DModelingWkbAddinHeader.CATAECBRDPIERDataHdr.Title     = "Pier Data";
+AEC3DModelingWkbAddinHeader.CATAECBRDPIERDataHdr.Help      = "Pier Data";
+AEC3DModelingWkbAddinHeader.CATAECBRDPIERDataHdr.ShortHelp = "Pier Data";
+AEC3DModelingWkbAddinHeader.CATAECBRDPIERDataHdr.LongHelp  = "Pier Data.";
+
+AEC3DModelingWkbAddinHeader.CATAECBDGEnvHdr.Title     = "Bridge Environmental Configuration";
+AEC3DModelingWkbAddinHeader.CATAECBDGEnvHdr.Help      = "Export all drawings in Product";
+AEC3DModelingWkbAddinHeader.CATAECBDGEnvHdr.ShortHelp = "Export all drawings in Product";
+AEC3DModelingWkbAddinHeader.CATAECBDGEnvHdr.LongHelp  = "Export all the drawings in the product, Get all the sheets in the drawing,can choose PDF or DWG format to export.";
+
+AEC3DModelingWkbAddinHeader.CATPRDUDFdataImportAndExportHdr.Title     = "UDF Data Synchronize";
+AEC3DModelingWkbAddinHeader.CATPRDUDFdataImportAndExportHdr.Help      = "Export all drawings in Product";
+AEC3DModelingWkbAddinHeader.CATPRDUDFdataImportAndExportHdr.ShortHelp = "Export all drawings in Product";
+AEC3DModelingWkbAddinHeader.CATPRDUDFdataImportAndExportHdr.LongHelp  = "Export all the drawings in the product, Get all the sheets in the drawing,can choose PDF or DWG format to export.";
+
+AEC3DModelingWkbAddinHeader.CATInstantiatePrdUDFT1Hdr.Title     = "Instantiation UDF(3DPart)";
+AEC3DModelingWkbAddinHeader.CATInstantiatePrdUDFT1Hdr.Help      = "Instantiation UDF based on axis systemes";
+AEC3DModelingWkbAddinHeader.CATInstantiatePrdUDFT1Hdr.ShortHelp = "Instantiation UDF based on axis systemes";
+AEC3DModelingWkbAddinHeader.CATInstantiatePrdUDFT1Hdr.LongHelp  = "Instantiation UDF based on axis systemes.";
+
+AEC3DModelingWkbAddinHeader.CATDRWExportHdr.Title     = "Export Drawing";
+AEC3DModelingWkbAddinHeader.CATDRWExportHdr.Help      = "Export all drawings in Product";
+AEC3DModelingWkbAddinHeader.CATDRWExportHdr.ShortHelp = "Export all drawings in Product";
+AEC3DModelingWkbAddinHeader.CATDRWExportHdr.LongHelp  = "Export all the drawings in the product, Get all the sheets in the drawing,can choose PDF or DWG format to export.";
+
+AEC3DModelingWkbAddinHeader.CATPrdRenameHdr.Title     = "Rename Tree";
+AEC3DModelingWkbAddinHeader.CATPrdRenameHdr.Help      = "Rename Tree";
+AEC3DModelingWkbAddinHeader.CATPrdRenameHdr.ShortHelp = "Rename Tree";
+AEC3DModelingWkbAddinHeader.CATPrdRenameHdr.LongHelp  = "Export all the drawings in the product, Get all the sheets in the drawing,can choose PDF or DWG format to export.";
+
+AEC3DModelingWkbAddinHeader.CATAECFeatureTemplateHdr.Title = "Create UDF Template";
+AEC3DModelingWkbAddinHeader.CATAECFeatureTemplateHdr.ShortHelp = "Create Geometrical Set";
+AEC3DModelingWkbAddinHeader.CATAECFeatureTemplateHdr.Help = "Create Geometrical Set";
+AEC3DModelingWkbAddinHeader.CATAECFeatureTemplateHdr.LongHelp = "CreateUDFTemplate Command Used to create Geometrical Set";
+
+AEC3DModelingWkbAddinHeader.CATAECObjectColorHdr.Title = "AEC Object Color";
+AEC3DModelingWkbAddinHeader.CATAECObjectColorHdr.ShortHelp = "AEC Object Color";
+AEC3DModelingWkbAddinHeader.CATAECObjectColorHdr.Help = "AEC Object Color";
+AEC3DModelingWkbAddinHeader.CATAECObjectColorHdr.LongHelp = "AEC Object Color";
+
+AEC3DModelingWkbAddinHeader.CATAECIFCTemplateHdr.Title = "IFC component";
+AEC3DModelingWkbAddinHeader.CATAECIFCTemplateHdr.ShortHelp = "IFC component";
+AEC3DModelingWkbAddinHeader.CATAECIFCTemplateHdr.Help = "Create an IFC framework of type ordered geometrical set with customizable parameters";
+AEC3DModelingWkbAddinHeader.CATAECIFCTemplateHdr.LongHelp = "The template file is located at <installation directory>\win_b64\startup\Civil\AECIFCTemplate\AECIFCTemplate.xml";
+
+AEC3DModelingWkbAddinHeader.CATAECIFCTemplateDataHdr.Title = "IFC Data Export";
+AEC3DModelingWkbAddinHeader.CATAECIFCTemplateDataHdr.ShortHelp = "IFC Component Data Export";
+AEC3DModelingWkbAddinHeader.CATAECIFCTemplateDataHdr.Help = "Export all custom component parameters to the excel file.";
+AEC3DModelingWkbAddinHeader.CATAECIFCTemplateDataHdr.LongHelp = "Export all custom component parameters to the excel file.";
+
+AEC3DModelingWkbAddinHeader.CATAECSPLCRVHdr.Title     = "Split Curve";
+AEC3DModelingWkbAddinHeader.CATAECSPLCRVHdr.Help      = "Split Curve";
+AEC3DModelingWkbAddinHeader.CATAECSPLCRVHdr.ShortHelp = "Cutting curve by Axis system or plane.";
+AEC3DModelingWkbAddinHeader.CATAECSPLCRVHdr.LongHelp  = "Cutting curve by Axis system or plane.";
+
+AEC3DModelingWkbAddinHeader.CATParmAnimationHdr.Title     = "Screenshot Export";
+AEC3DModelingWkbAddinHeader.CATParmAnimationHdr.Help      = "Screenshot Export";
+AEC3DModelingWkbAddinHeader.CATParmAnimationHdr.ShortHelp = "Select a parameter, set its change interval and change step number, it will export each screenshot.";
+AEC3DModelingWkbAddinHeader.CATParmAnimationHdr.LongHelp  = "Select a parameter, set its change interval and change step number, it will export each screenshot.";
+
+AEC3DModelingWkbAddinHeader.CATPrdRenameHdr.Title     = "Rename Object Definition";
+AEC3DModelingWkbAddinHeader.CATPrdRenameHdr.Help      = "Rename Object Definition";
+AEC3DModelingWkbAddinHeader.CATPrdRenameHdr.ShortHelp = "Rename Object Definition.";
+AEC3DModelingWkbAddinHeader.CATPrdRenameHdr.LongHelp  = "Rename Object Definition.";
+
+AEC3DModelingWkbAddinHeader.CATAECBRDUDFExportDataHdr.Title     = "Export Geometrical Set Data";
+AEC3DModelingWkbAddinHeader.CATAECBRDUDFExportDataHdr.Help      = "Export Geometrical Set Data";
+AEC3DModelingWkbAddinHeader.CATAECBRDUDFExportDataHdr.ShortHelp = "Export Geometrical Set Data.";
+AEC3DModelingWkbAddinHeader.CATAECBRDUDFExportDataHdr.LongHelp  = "Export Geometrical Set Data.";
+
+AEC3DModelingWkbAddinHeader.CATDRWUpdateAllHdr.Title     = "Update Drawing";
+AEC3DModelingWkbAddinHeader.CATDRWUpdateAllHdr.Help      = "Update Drawing";
+AEC3DModelingWkbAddinHeader.CATDRWUpdateAllHdr.ShortHelp = "Update All Drawing.";
+AEC3DModelingWkbAddinHeader.CATDRWUpdateAllHdr.LongHelp  = "Update All Drawing.";
+
+AEC3DModelingWkbAddinHeader.CATCIVGeologyFeatureHdr.Title     = "CIVGeology";
+AEC3DModelingWkbAddinHeader.CATCIVGeologyFeatureHdr.Help      = "CIVGeology";
+AEC3DModelingWkbAddinHeader.CATCIVGeologyFeatureHdr.ShortHelp = "CIVGeology.";
+AEC3DModelingWkbAddinHeader.CATCIVGeologyFeatureHdr.LongHelp  = "CIVGeology.";
+
+AEC3DModelingWkbAddinHeader.BasicCmdHdr.Title     = "CAA.";
+AEC3DModelingWkbAddinHeader.BasicCmdHdr.Help      = "CAA.";
+AEC3DModelingWkbAddinHeader.BasicCmdHdr.ShortHelp = "CAA.";
+AEC3DModelingWkbAddinHeader.BasicCmdHdr.LongHelp  = "CAA.";
+
+AEC3DModelingWkbAddinHeader.BasicCmd1Hdr.Title     = "CAA.";
+AEC3DModelingWkbAddinHeader.BasicCmd1Hdr.Help      = "CAA.";
+AEC3DModelingWkbAddinHeader.BasicCmd1Hdr.ShortHelp = "CAA.";
+AEC3DModelingWkbAddinHeader.BasicCmd1Hdr.LongHelp  = "CAA.";
+
+AEC3DModelingWkbAddinHeader.CATDtm3DExpExportHdr.Title     = "Terrain.";
+AEC3DModelingWkbAddinHeader.CATDtm3DExpExportHdr.Help      = "Terrain.";
+AEC3DModelingWkbAddinHeader.CATDtm3DExpExportHdr.ShortHelp = "Terrain.";
+AEC3DModelingWkbAddinHeader.CATDtm3DExpExportHdr.LongHelp  = "Terrain.";
+
+AEC3DModelingWkbAddinHeader.CATDtm3DExpImportHdr.Title     = "Terrain.";
+AEC3DModelingWkbAddinHeader.CATDtm3DExpImportHdr.Help      = "Terrain.";
+AEC3DModelingWkbAddinHeader.CATDtm3DExpImportHdr.ShortHelp = "Terrain.";
+AEC3DModelingWkbAddinHeader.CATDtm3DExpImportHdr.LongHelp  = "Terrain.";
+
+AEC3DModelingWkbAddinHeader.ImportCloudOfPoint.Title     = "Terrain.";
+AEC3DModelingWkbAddinHeader.ImportCloudOfPoint.Help      = "Terrain.";
+AEC3DModelingWkbAddinHeader.ImportCloudOfPoint.ShortHelp = "Terrain.";
+AEC3DModelingWkbAddinHeader.ImportCloudOfPoint.LongHelp  = "Terrain.";
+
+AEC3DModelingWkbAddinHeader.CATAECSetParmsHdr.Title     = "Set Attribute Object";
+AEC3DModelingWkbAddinHeader.CATAECSetParmsHdr.Help      = "Set Attribute Object.";
+AEC3DModelingWkbAddinHeader.CATAECSetParmsHdr.ShortHelp = "Set Attribute Object.";
+AEC3DModelingWkbAddinHeader.CATAECSetParmsHdr.LongHelp  = "Set Attribute Object.";
+
+AEC3DModelingWkbAddinHeader.CATDefineBodyHdr.Title     = "Define Mainbody as  work object";
+AEC3DModelingWkbAddinHeader.CATDefineBodyHdr.Help      = "Define Mainbody as  work object";
+AEC3DModelingWkbAddinHeader.CATDefineBodyHdr.ShortHelp = "Define Mainbody as  work object";
+AEC3DModelingWkbAddinHeader.CATDefineBodyHdr.LongHelp  = "Define Mainbody as  work object";
+
+AEC3DModelingWkbAddinHeader.CATAECBRDSyncUDFHdr.Title     = "CATAECBRDSyncUDFHdr";
+AEC3DModelingWkbAddinHeader.CATAECBRDSyncUDFHdr.Help      = "CATAECBRDSyncUDFHdr";
+AEC3DModelingWkbAddinHeader.CATAECBRDSyncUDFHdr.ShortHelp = "CATAECBRDSyncUDFHdr";
+AEC3DModelingWkbAddinHeader.CATAECBRDSyncUDFHdr.LongHelp  = "CATAECBRDSyncUDFHdr";

@@ -1,0 +1,13 @@
+Title = "[十CATDrwFromViewDlg,Title十一構ソチ－Annotation Drawing]";
+Frame1.Title = "[十CATDrwFromViewDlg,Frame1.Title十一構ソチ－Setup]";
+Frame1.Label6.Title = "[十CATDrwFromViewDlg,Frame1.Label6.Title十一構ソチ－ View Name : ]";
+Frame1.Label7.Title = "[十CATDrwFromViewDlg,Frame1.Label7.Title十一構ソチ－ View Name : ]";
+Frame1.Label4.Title = "[十CATDrwFromViewDlg,Frame1.Label4.Title十一構ソチ－ View Mode : ]";
+Frame1.Label5.Title = "[十CATDrwFromViewDlg,Frame1.Label5.Title十一構ソチ－ View Mode : ]";
+Frame1.Label2.Title = "[十CATDrwFromViewDlg,Frame1.Label2.Title十一構ソチ－Select Cut Plane : ]";
+Frame1.Label3.Title = "[十CATDrwFromViewDlg,Frame1.Label3.Title十一構ソチ－ View Mode : ]";
+Frame1.Label1.Title = "[十CATDrwFromViewDlg,Frame1.Label1.Title十一構ソチ－Select Drawing : ]";
+Frame1.Label8.Title = "[十CATDrwFromViewDlg,Frame1.Label8.Title十一構ソチ－ View Name : ]";
+Frame1.CheckButton3.Title = "[十CATDrwFromViewDlg,Frame1.CheckButton3.Title十一構ソチ－Section Cut]";
+Frame1.CheckButton2.Title = "[十CATDrwFromViewDlg,Frame1.CheckButton2.Title十一構ソチ－Section View]";
+Frame1.CheckButton1.Title = "[十CATDrwFromViewDlg,Frame1.CheckButton1.Title十一構ソチ－Projection View]";

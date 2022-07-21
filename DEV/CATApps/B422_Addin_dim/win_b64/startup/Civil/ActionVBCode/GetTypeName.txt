@@ -1,0 +1,5 @@
+Object
+'Name=test
+Msgbox TypeName(Object)
+
+End Sub

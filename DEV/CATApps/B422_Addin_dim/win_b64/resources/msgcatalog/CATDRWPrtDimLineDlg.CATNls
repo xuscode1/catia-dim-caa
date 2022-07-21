@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+Title = "Line Dimsion Definition";
+Frame1.Title = "Setup";
+Frame1.Label1.Title = "Line Set     ";
+Frame2.Title = "UDF Setup";
+Frame2.Label2.Title = "Part Name";
+Frame2.Label3.Title = "UDF Name";
+Frame2.Label4.Title = "Version";
+Frame1.RadioButton1.Title = "GS";
+Frame1.RadioButton2.Title = "OGS";

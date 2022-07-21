@@ -1,0 +1,7 @@
+CATDraftingWksAddinHeader.CATAECDRWRunCmdHdr.Icon.Normal="I_CATDRWSmartAnnotation";
+CATDraftingWksAddinHeader.CATDRWDimModifyHdr.Icon.Normal="I_CATDRWDimModify";
+CATDraftingWksAddinHeader.CATDRWLeadertextHdr.Icon.Normal="I_CATDRWLeadertext";
+CATDraftingWksAddinHeader.CATDRWDeleteTextHdr.Icon.Normal="I_CATDRWDeleteText";
+CATDraftingWksAddinHeader.CATDRWDeleteDimHdr.Icon.Normal="I_CATDRWDeleteDim";
+CATDraftingWksAddinHeader.CATDRWDeleteComponentHdr.Icon.Normal="I_CATDRWDeleteComponent";
+CATDraftingWksAddinHeader.CATDrwViewAtOriginHdr.Icon.Normal="I_CATDRWSmartAnnotation";

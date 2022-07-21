@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding = 'UTF-8'?>
+
+
+<RoadDesignStandard>
+	<RoadSection  Title="RoadSection" >	
+		<IFCBridge  Title="IFCSubData" Description="桥梁IFC 数据" >
+			<!-- 这个级别数量和个数不定,目前三个，创建参数时候，要循环这个xml配置表去创建 -->
+			<Parameter	Type="Length" Name="Test00" Value="21"     Description="角度"  />
+			<Parameter	Type="Volume" Name="Test11" Value="21"     Description="角度"  />
+			<Parameter	Type="Angle"  Name="Test22" Value="21"     Description="角度"  />
+			<Parameter	Type="String" Name="Test23" Value="21"     Description="角度"  />
+			<Parameter	Type="Real"   Name="Test24" Value="21"     Description="角度"  />
+			<Parameter	Type="Length" Name="Test25" Value="21"     Description="角度"  />		
+		</IFCBridge>
+	</RoadSection>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</RoadDesignStandard>
+

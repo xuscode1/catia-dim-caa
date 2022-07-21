@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+Title = "产品图纸定义";
+Label1.Title = "轴系集合 ";
+Label2.Title = "产品 ";
+
+msg.Title = "错误";
+msg.Text = "Axis数量或Part数量小于1。";
+
+msg1.Title = "错误";
+msg1.Text = "创建图纸或创建视图失败。";

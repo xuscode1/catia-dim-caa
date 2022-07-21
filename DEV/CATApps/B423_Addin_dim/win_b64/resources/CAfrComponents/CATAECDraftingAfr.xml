@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Styles xmlns:syp="http://www.3ds.com/xsd/SYP">
+
+  <!-- ************************************** -->
+  <!--   Commands Headers  -->
+  <!-- ************************************** -->
+
+  <Template syp:name="AECDraftingCommandHeaders" Target="CATAfrComponent">
+    <CATCAfrGroup>
+
+      <CATCommandHeader  ID="CATAECAnnAngleThreePointHdr" ClassName="CATAECAnnAngleThreePointCmd" SharedLibraryName="CATAEC3DAnnotationMod" ResourceFile="AECDraftingWkbAddinHeader"  Available="1"/>
+      <CATCommandHeader  ID="CATAECAnnOnePointHdr" ClassName="CATAECAnnOnePointCmd" SharedLibraryName="CATAEC3DAnnotationMod" ResourceFile="AECDraftingWkbAddinHeader"  Available="1"/>
+      <CATCommandHeader  ID="CATAECAnnDimTwoPointHdr" ClassName="CATAECAnnDimTwoPointCmd" SharedLibraryName="CATAEC3DAnnotationMod" ResourceFile="AECDraftingWkbAddinHeader"  Available="1"/>
+      <CATCommandHeader  ID="CATAECAnnAngleTwoLineHdr" ClassName="CATAECAnnAngleTwoLineCmd" SharedLibraryName="CATAEC3DAnnotationMod" ResourceFile="AECDraftingWkbAddinHeader"  Available="1"/>
+      <CATCommandHeader  ID="CATAECAnnRadiusHdr" ClassName="CATAECAnnRadiusCmd" SharedLibraryName="CATAEC3DAnnotationMod" ResourceFile="AECDraftingWkbAddinHeader"  Available="1"/>
+      <!--Drawing--> 
+      <CATCommandHeader  ID="CATDRWDimensionsHdr" ClassName="CATDRWDimensionsCmd" SharedLibraryName="CATDRWDimensions" ResourceFile="AECDraftingWkbAddinHeader"  Available="1"/>
+      <CATCommandHeader  ID="CATDRWLinearDimensionHdr"  ClassName="CATDRWLinearDimensionCmd" SharedLibraryName="CATDRWLinearDimension" ResourceFile="AECDraftingWkbAddinHeader"  Available="1"/>
+      <CATCommandHeader  ID="CATDrwFromViewHdr"  ClassName="CATDrwFromViewCmd" SharedLibraryName="CATDRWFromView" ResourceFile="AECDraftingWkbAddinHeader"  Available="1"/>
+      <CATCommandHeader  ID="CATDrwFromViewLayoutHdr"  ClassName="CATDrwFromViewLayoutCmd" SharedLibraryName="CATDRWFromView" ResourceFile="AECDraftingWkbAddinHeader"  Available="1"/>
+      <CATCommandHeader  ID="CATDRWPositionHdr" ClassName="CATDRWPositionCmd" SharedLibraryName="CATDRWPostionMod" ResourceFile="AECDraftingWkbAddinHeader"  Available="1"/>
+      <CATCommandHeader  ID="CATDRWDimModifyHdr"  ClassName="CATDRWDimModifyCmd" SharedLibraryName="CATDRWDimModify" ResourceFile="AECDraftingWkbAddinHeader"  Available="1"/>
+      <CATCommandHeader  ID="CATDRWPrtDimLineHdr" ClassName="CATDRWPrtDimLineCmd" SharedLibraryName="CATDRWPrtDimLine"  ResourceFile="AECDraftingWkbAddinHeader"  Available ="1"/>
+      <CATCommandHeader  ID="CATAECDRWRunCmdHdr" ClassName="CATAECDRWRunCmd" SharedLibraryName="CATAECDRWRun" ResourceFile="AECDraftingWkbAddinHeader" Available="1"/>
+      <CATCommandHeader  ID="CATDRWDimModifyHdr" ClassName="CATDRWDimModifyCmd" SharedLibraryName="CATDRWDimModify" ResourceFile="AECDraftingWkbAddinHeader" Available="1"/>
+      <CATCommandHeader  ID="CATDRWLeadertextHdr" ClassName="CATDRWLeadertextCmd" SharedLibraryName="CATDRWLeadertext" ResourceFile="AECDraftingWkbAddinHeader" Available="1"/>
+      <CATCommandHeader  ID="CATDRWDeleteTextHdr" ClassName="CATDRWDeleteTextCmd" SharedLibraryName="CATDRWDelete" ResourceFile="AECDraftingWkbAddinHeader" Available="1"/>
+      <CATCommandHeader  ID="CATDRWDeleteDimHdr" ClassName="CATDRWDeleteDimCmd" SharedLibraryName="CATDRWDelete" ResourceFile="AECDraftingWkbAddinHeader" Available="1"/>
+      <CATCommandHeader  ID="CATDRWDeleteComponentHdr" ClassName="CATDRWDeleteComponentCmd" SharedLibraryName="CATDRWDelete" ResourceFile="AECDraftingWkbAddinHeader" Available="1"/>
+
+   
+    </CATCAfrGroup>
+  </Template>
+
+  <!-- Define a Section -->
+  <Template syp:name="DrawingAnnotationModelSectionToolbar" Target="CATAfrComponent">
+  <!-- Define a Toolbar with commands -->
+    <CATCmdContainer Name="TSTAppDTlb13">
+      <CATCmdStarter Name="CATAECAnnOnePointHdr" Command="CATAECAnnOnePointHdr"/>
+      <CATCmdStarter Name="CATAECAnnDimTwoPointHdr" Command="CATAECAnnDimTwoPointHdr"/>
+      <CATCmdStarter Name="CATAECAnnRadiusHdr" Command="CATAECAnnRadiusHdr"/>
+      <CATCmdStarter Name="CATAECAnnAngleTwoLineHdr" Command="CATAECAnnAngleTwoLineHdr"/>  
+    </CATCmdContainer>
+  </Template>
+
+ 
+  
+  
+
+  <!-- Define a Section -->
+  <Template syp:name="DrawingPositionSectionToolbar" Target="CATAfrComponent">
+    <CATCmdContainer Name="TSTAppDTlb14">
+      <CATCmdStarter Name="CATDRWPositionHdr" Command="CATDRWPositionHdr"/>  
+    </CATCmdContainer>
+  </Template>
+
+  
+
+
+  <!-- ************************************** -->
+  <!--  3D Modeling Drawing -->
+  <!-- ************************************** -->
+  <Template syp:name="DrawingDimensionSectionToolbar" Target="CATAfrComponent">
+    <!-- Define a Section -->
+    <CATCmdContainer Name="DrawingSection">
+  <!-- Define a Toolbar with commands -->
+      <CATCmdStarter Name="CATAECDRWRunCmdHdr" Command="CATAECDRWRunCmdHdr"/>
+    </CATCmdContainer>
+  </Template>
+  
+ 
+ 
+
+</Styles>
+

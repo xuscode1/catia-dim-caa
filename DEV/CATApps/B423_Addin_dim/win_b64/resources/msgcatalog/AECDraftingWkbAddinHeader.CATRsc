@@ -1,0 +1,26 @@
+
+AECDraftingWkbAddinHeader.CATDRWExportHdr.Icon.Normal="I_CATDRWExport";
+
+
+AECDraftingWkbAddinHeader.CATAECBDGGridHdr.Icon.Normal="I_AECGridSet";
+AECDraftingWkbAddinHeader.CATAECBDGGridFeatureHdr.Icon.Normal="I_AECGridSetCmd";
+AECDraftingWkbAddinHeader.CATAECAnnAngleThreePointHdr.Icon.Normal="I_CAACommand";
+AECDraftingWkbAddinHeader.CATAECAnnOnePointHdr.Icon.Normal="I_CATAECAnnOnePoint";
+AECDraftingWkbAddinHeader.CATAECAnnDimTwoPointHdr.Icon.Normal="I_CATAECAnnDimTwoPoint";
+AECDraftingWkbAddinHeader.CATAECAnnAngleTwoLineHdr.Icon.Normal="I_CATAECAnnAngleTwoLine";
+AECDraftingWkbAddinHeader.CATAECAnnRadiusHdr.Icon.Normal="I_CATAECAnnRadius";
+AECDraftingWkbAddinHeader.CATAECAlignDimensionHdr.Icon.Normal="I_CATAECAnnDimTwoPoint";
+AECDraftingWkbAddinHeader.CATDRWPositionHdr.Icon.Normal="I_DrwReferencePosition";
+
+// Alignment
+
+AECDraftingWkbAddinHeader.CATDRWDimensionsHdr.Icon.Normal = "I_CATDRWDimensionsElev";
+AECDraftingWkbAddinHeader.CATDRWLinearDimensionHdr.Icon.Normal = "I_CATDRWLinearDimension";
+AECDraftingWkbAddinHeader.CATDrwFromViewHdr.Icon.Normal="I_DrawingAnnotationView";
+AECDraftingWkbAddinHeader.CATDrwFromViewLayoutHdr.Icon.Normal="I_DrawingLayoutView";
+AECDraftingWkbAddinHeader.CATDRWDimModifyHdr.Icon.Normal="I_CATDRWDimModify";
+AECDraftingWkbAddinHeader.CATDRWUpdateAllHdr.Icon.Normal="I_UpdateDrawing";
+AECDraftingWkbAddinHeader.CATDRWFromAxisSetHdr.Icon.Normal="I_DRWFromAxisSet";
+AECDraftingWkbAddinHeader.CATDRWPrtDimLineHdr.Icon.Normal="I_DRWPrtDimLine";
+AECDraftingWkbAddinHeader.CATDrwViewAtOriginHdr.Icon.Normal="I_DrwViewAtOrigin";
+AECDraftingWkbAddinHeader.CATDRWManagementHdr.Icon.Normal="I_CAACmd";

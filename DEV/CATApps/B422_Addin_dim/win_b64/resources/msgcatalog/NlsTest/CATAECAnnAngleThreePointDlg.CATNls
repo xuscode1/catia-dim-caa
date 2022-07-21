@@ -1,0 +1,7 @@
+Title = "[~CATAECAnnAngleThreePointDlg,Title~ CATAECAnnAngléThreePøîntDlg]";
+Frame1.Title = "[~CATAECAnnAngleThreePointDlg,Frame1.Title~ Fråmé1]";
+Frame1.Label4.Title = "[~CATAECAnnAngleThreePointDlg,Frame1.Label4.Title~  Sélect Pøînt2 : ]";
+Frame1.Label5.Title = "[~CATAECAnnAngleThreePointDlg,Frame1.Label5.Title~  Sélect Pøînt3 : ]";
+Frame1.Label2.Title = "[~CATAECAnnAngleThreePointDlg,Frame1.Label2.Title~  Vålüé : ]";
+Frame1.Label3.Title = "[~CATAECAnnAngleThreePointDlg,Frame1.Label3.Title~  Sélect Pøînt1 : ]";
+Frame1.Label1.Title = "[~CATAECAnnAngleThreePointDlg,Frame1.Label1.Title~  Nåmé : ]";

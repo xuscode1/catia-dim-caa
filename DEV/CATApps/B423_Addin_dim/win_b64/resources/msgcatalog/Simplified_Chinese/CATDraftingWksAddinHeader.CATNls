@@ -1,0 +1,35 @@
+<meta charset="UTF-8"/>
+CATDraftingWksAddinHeader.CATAECDRWRunCmdHdr.Title     = "批量标注";
+CATDraftingWksAddinHeader.CATAECDRWRunCmdHdr.Help      = "批量标注";
+CATDraftingWksAddinHeader.CATAECDRWRunCmdHdr.ShortHelp = "读取2D部件文件，智能加载尺寸标注";
+CATDraftingWksAddinHeader.CATAECDRWRunCmdHdr.LongHelp  = "读取2D部件文件，智能加载尺寸标注";
+
+CATDraftingWksAddinHeader.CATDRWDimModifyHdr.Title     = "尺寸文字修改";
+CATDraftingWksAddinHeader.CATDRWDimModifyHdr.Help      = "尺寸文字修改";
+CATDraftingWksAddinHeader.CATDRWDimModifyHdr.ShortHelp = "选择一个尺寸并修改其文字";
+CATDraftingWksAddinHeader.CATDRWDimModifyHdr.LongHelp  = "选择一个尺寸并修改其文字";
+
+CATDraftingWksAddinHeader.CATDRWLeadertextHdr.Title     = "多点注释";
+CATDraftingWksAddinHeader.CATDRWLeadertextHdr.Help      = "多点注释";
+CATDraftingWksAddinHeader.CATDRWLeadertextHdr.ShortHelp = "选择所有点，可以将这些点关联到一个标签中";
+CATDraftingWksAddinHeader.CATDRWLeadertextHdr.LongHelp  = "选择所有点，可以将这些点关联到一个标签中";
+
+CATDraftingWksAddinHeader.CATDRWDeleteTextHdr.Title     = "删除文字标注";
+CATDraftingWksAddinHeader.CATDRWDeleteTextHdr.Help      = "此工具将自动从当前视图中删除所有文本尺寸";
+CATDraftingWksAddinHeader.CATDRWDeleteTextHdr.ShortHelp = "此工具将自动从当前视图中删除所有文本尺寸";
+CATDraftingWksAddinHeader.CATDRWDeleteTextHdr.LongHelp  = "此工具将自动从当前视图中删除所有文本尺寸";
+
+CATDraftingWksAddinHeader.CATDRWDeleteDimHdr.Title     = "删除尺寸标注";
+CATDraftingWksAddinHeader.CATDRWDeleteDimHdr.Help      = "该工具将自动从当前视图中删除所有尺寸";
+CATDraftingWksAddinHeader.CATDRWDeleteDimHdr.ShortHelp = "该工具将自动从当前视图中删除所有尺寸";
+CATDraftingWksAddinHeader.CATDRWDeleteDimHdr.LongHelp  = "该工具将自动从当前视图中删除所有尺寸";
+
+CATDraftingWksAddinHeader.CATDRWDeleteComponentHdr.Title     = "删除2D部件";
+CATDraftingWksAddinHeader.CATDRWDeleteComponentHdr.Help      = "删除2D部件";
+CATDraftingWksAddinHeader.CATDRWDeleteComponentHdr.ShortHelp = "该工具将自动从当前视图中删除所有2D组件";
+CATDraftingWksAddinHeader.CATDRWDeleteComponentHdr.LongHelp  = "该工具将自动从当前视图中删除所有2D组件";
+
+CATDraftingWksAddinHeader.CATDrwViewAtOriginHdr.Title     = "定位视图原点";
+CATDraftingWksAddinHeader.CATDrwViewAtOriginHdr.Help      = "定位视图原点";
+CATDraftingWksAddinHeader.CATDrwViewAtOriginHdr.ShortHelp = "定位视图原点";
+CATDraftingWksAddinHeader.CATDrwViewAtOriginHdr.LongHelp  = "定位视图原点";

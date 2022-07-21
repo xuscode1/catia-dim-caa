@@ -1,0 +1,4 @@
+<meta charset="UTF-8"/>
+CATAECAnnRadiusCmd.SelectRadius.Message="选择圆";
+CATAECAnnRadiusCmd.InputName.Message="输入名称";
+CATAECAnnRadiusCmd.InputValue.Message="输入值";
